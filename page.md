@@ -1,9 +1,8 @@
 ---
 layout: default
-categories: cat1
-title: Some Post
+title: Some Page
 ---
-This is some post.
+This is some page.
 
 It has been written in Markdown.
 

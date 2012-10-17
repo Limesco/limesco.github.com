@@ -14,3 +14,11 @@ title: Homepage
 {% endfor %}
 </ul>
 
+<p>Those actually were posts, these are pages:</p>
+
+<ul>
+{% for page in site.pages %}
+<li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+
