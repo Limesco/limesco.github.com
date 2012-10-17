@@ -7,10 +7,8 @@ title: Homepage
 <p>These are all our pages:</p>
 
 <ul>
-{% for post in sites.posts %}
+{% for post in site.posts %}
 <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-URL: {{ post_url 2012-10-17-some-post }}
 
