@@ -3,3 +3,11 @@ layout: default
 title: Homepage
 ---
 <p>Welcome to Limesco website!</p>
+
+<p>These are all our pages:</p>
+
+<ul>
+{% for post in paginator.posts %}
+<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
