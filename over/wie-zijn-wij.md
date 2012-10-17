@@ -1,5 +1,5 @@
 ---
+layout: default
 title: Wie is Limesco?
-group: about
 ---
 
