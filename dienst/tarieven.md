@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tarieven
+section: dienst
 ---
 Onderstaande tabel bevat de tarieven die Limesco B.V. aan eindgebruikers rekent. Alle prijzen in onderstaande tabel zijn in euro's. Items worden afgerond volgens de volgende regels:
 * Alle gesprekken worden afgerond per second

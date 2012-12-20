@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Do-it-Yourself
+section: dienst
 ---
 Wanneer je kiest voor Do-it-Yourself van Limesco, ontvang je van ons een SIM-kaart die net iets anders werkt dan de SIM-kaart die je ontvangt van een traditionele aanbieder of wanneer je kiest voor Out-of-the-Box. Om van je SIM-kaart gebruik te kunnen maken, moet je een SIP-server hebben ingericht en Limesco laten weten hoe de gateway op jouw server kan inloggen. Nadat je SIM-kaart vervolgens is geactiveerd en in je toestel is geplaatst, kun je aan de slag.
 

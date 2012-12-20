@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Algemene informatie
+section: dienst
 ---
 Limesco biedt een aantal diensten aan via het mobiele netwerk van T-Mobile, waardoor je als gebruiker kunt bellen, SMS'en en internetten. Wat Limesco bijzonder maakt is dat je als gebruiker de mogelijkheid krijgt om zelf, technisch, invloed uit te oefenen op je verbinding.
 

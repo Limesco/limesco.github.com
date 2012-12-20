@@ -2,6 +2,7 @@
 layout: default
 title: Contactgegevens
 category: main
+section: over
 ---
 Het postadres van Limesco is:
 Limesco B.V.

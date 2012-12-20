@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Out-of-the-Box
+section: dienst
 ---
 Wanneer je bij Limesco kiest voor Out-of-the-Box - wat wij afkorten tot OotB - zal je een SIM-kaart ontvangen die te gebruiken is zoals een SIM-kaart van een traditionele aanbieder. Nadat de SIM-kaart is geactiveerd en in je toestel is geplaatst, kun je direct bellen, SMS'en en internet. Wij zorgen voor alle techniek.
 
