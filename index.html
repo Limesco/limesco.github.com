@@ -2,23 +2,10 @@
 layout: default
 title: Homepage
 ---
-<p>Welcome to Limesco website!</p>
-
-<p>These are all our pages:</p>
-
-<a href="page.html">Page made in MarkDown</a>
+<p>Welkom op de website van Limesco</p>
 
 <ul>
 {% for post in site.posts %}
 <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-<p>Those actually were posts, these are pages:</p>
-
-<ul>
-{% for page in site.pages %}
-<li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
-{% endfor %}
-</ul>
-
