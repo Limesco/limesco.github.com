@@ -14,19 +14,36 @@
   <div class="navbar-inner">
     <div class="container">
       <a class="brand" href="/">Limesco</a>
-{% assign sections = "dienst,technisch,over" | split: "," %}
-{% for section in sections %}
         <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{ section }}</a>
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dienst</a>
           <ul class="dropdown-menu">
 {% for page in site.pages %}
-{% if page.section == section %}
+{% if page.section == 'dienst' %}
             <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
           </ul>
         </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Technisch</a>
+          <ul class="dropdown-menu">
+{% for page in site.pages %}
+{% if page.section == 'technisch' %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
 {% endfor %}
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Over</a>
+          <ul class="dropdown-menu">
+{% for page in site.pages %}
+{% if page.section == 'over' %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+          </ul>
+        </li>
     </div>
   </div>
 </div>
