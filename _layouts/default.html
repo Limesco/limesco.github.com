@@ -8,10 +8,32 @@
 </head>
 
 <body>
-
 <h1>{{ page.title }}</h1>
 
-{{ content }}
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="span2">
+      <!--Sidebar content-->
+      <ul class="nav nav-tabs nav-stacked">
+      {% for cat in site.categories %}
+        <li>{{ cat.}}
+        {% if site.categories.cat | size == 0 %}
+          </li>
+        {% else %}
+          <ul class="nav nav-tabs nav-stacked">
+          {% for p in site.categories.cat %}
+            <li><a href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a></li>
+          {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="span10">
+      {{ content }}
+    </div>
+  </div>
+</div>
 
 <!-- Bootstrap -->
 <script src="http://code.jquery.com/jquery-latest.js"></script>
