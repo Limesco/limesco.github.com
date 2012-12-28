@@ -2,7 +2,7 @@
 layout: default
 title: Wie is Limesco?
 category: main
-section: over
+section: ~over
 ---
 <ul class="unstyled">
 {% for p in site.categories.wiezijnwij %}
