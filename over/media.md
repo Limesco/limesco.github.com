@@ -4,7 +4,8 @@ title: In de media
 category: main
 section: over
 ---
-<h2><a name="#2013">2013</a></h2>
+<a name="#2013"></a>
+<h2><a href="#2013">2013</a></h2>
 <ul>
  <li>2 januari 2013:
   <a href="http://blogs.wallstreetjournal.de/wsj-tech/2013/01/02/hacker-betreiben-eigenes-mobilfunknetz/" target="_blank">
@@ -12,7 +13,8 @@ section: over
   </a>
  </li>
 </ul>
-<h2><a name="#2012">2012</a></h2>
+<a name="#2012"></a>
+<h2><a href="#2012">2012</a></h2>
 <ul>
  <li>16 december 2012:
   <a href="http://derstandard.at/1355459790437/Community-Mobilfunker-fuer-Hacker-am-CCC-Kongress" target="_blank">
@@ -31,7 +33,8 @@ section: over
  </a>
 </li>
 </ul>
-<h2><a name="#2011">2011</a></h2>
+<a name="#2011"></a>
+<h2><a href="#2011">2011</a></h2>
 <ul>
  <li>1 december 2011:
   <a href="http://tweakers.net/nieuws/78467/nederlandse-hackersprovider-gaat-volgend-jaar-van-start.html" target="_blank">
