@@ -51,7 +51,15 @@
   </div>
 </div>
 
+{% assign num_pages = 0 %}
+{% for p in site.pages %}
+{% if page.section == p.section %}
+{%   capture num_pages %}{{num_pages | plus: 1}}{% endcapture %}
+{% endif %}
+{% endfor %}
+
   <div class="row-fluid" style="padding-top: 50px;">
+{% if num_pages != '0' and num_pages != '1' %}
     <div class="span2">
       <!--Sidebar content-->
       <ul class="nav nav-tabs nav-stacked">
@@ -63,6 +71,9 @@
       </ul>
     </div>
     <div class="span10">
+{% else %}
+    <div class="span12">
+{% endif %}
       <h1>{{ page.title }}</h1>
       {{ content }}
     </div>
