@@ -4,10 +4,10 @@ title: Contactgegevens
 category: main
 section: over
 ---
-Het postadres van Limesco is:
-    Limesco B.V. 
-    Gildeplein 9
-    6612 BC Nederasselt
+Het postadres van Limesco is:<pre>
+Limesco B.V. 
+Gildeplein 9
+6612 BC Nederasselt</pre>
 
 Supportvragen kunnen per e-mail gestuurd worden aan support@limesco.nl en de meeste overige mail kun je sturen aan bv@limesco.nl.
 
