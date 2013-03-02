@@ -4,16 +4,39 @@ title: De technologie
 section: technisch
 ---
 
-<p><strong>De technologie achter Limesco</strong>
-Er zijn bij Limesco twee vormen waarin telefoonverkeer kan plaatsvinden: <em>Out-of-the-Box</em> en <em>Do-It-Yourself</em>.
-Beide vormen hebben hun eigen voor- en nadelen, zoals hieronder te vinden is.
+<p><strong>De technologie achter Limesco</strong> Er zijn bij Limesco twee
+vormen waarin telefoonverkeer kan plaatsvinden: <em>Out-of-the-Box</em> en
+<em>Do-It-Yourself</em>.  Beide vormen hebben hun eigen voor- en nadelen, zoals
+hieronder te vinden is.
 
-<p><strong>Out-of-the-Box</strong></p> is een vorm waarbij er praktisch geen verschil is vergeleken met standaardabonnementen bij
-andere providers. Je kan bellen en gebeld worden zoals je dat normaal ook zou kunnen. Hetzelfde geldt voor SMS en data. Out-of-the-box
-is daarmee de simpelste en meest toegankelijke vorm om te bellen via Limesco.
+<p><strong>Out-of-the-Box</strong> is een vorm waarbij er praktisch geen
+verschil is vergeleken met standaardabonnementen bij andere providers. Je kan
+bellen en gebeld worden zoals je dat normaal ook zou kunnen. Hetzelfde geldt
+voor SMS en data. Out-of-the-box is daarmee de simpelste en meest toegankelijke
+vorm om te bellen via Limesco.</p>
 
-<p><strong>Do-It-Yourself</strong></p> houdt in dat je het telefoonverkeer (vooralsnog alleen spraak) zelf regelt. In deze vorm
-worden alle inkomende gesprekken op een door jou gekozen server afgeleverd en moet je zelf bedenken hoe je dit verder <em>routeert</em>.
-De andere kant op moet je ook zelf regelen. Als jij uitgaand belt komt het gesprek op jouw server uit en is het zaak dat het gesprek bij
-de juiste persoon terechtkomt.
+<p><strong>Do-It-Yourself</strong> houdt in dat je het telefoonverkeer
+(vooralsnog alleen spraak) zelf regelt. In deze vorm worden alle inkomende
+gesprekken op een door jou gekozen server afgeleverd en moet je zelf bedenken
+hoe je dit verder <em>routeert</em>.  De andere kant op moet je ook zelf
+regelen. Als jij uitgaand belt komt het gesprek op jouw server uit en is het
+zaak dat het gesprek bij de juiste persoon terechtkomt.</p>
+
+<p>De techniek die hierachter zit is gebaseerd op het <em>Session Initiation
+Protocol</em> (SIP). Er zijn twee richtingen die beide gebruikt worden bij
+Do-It-Yourself: <em>inkomend</em> en <em>uitgaand</em>. Bij het bellen naar een
+mobiel nummer op DIY wordt de term <em>inkomend</em> gebruikt. Bij het bellen
+met de mobiele telefoon wordt er gesproken over <em>uitgaande</em> gesprekken.</p>
+
+<p>Om telefoongesprekken af te leveren op jouw <em>Private Branch Exchange</em>
+(PBX) stuurt SpeakUp een <dfn>SIP INVITE</dfn> naar jouw PBX zodat er een sessie
+opgebouwd kan worden tussen SpeakUp en jouw PBX. Hierdoor weet SpeakUp bij
+welke machine zij het inkomende gesprek moeten afleveren.</p>
+
+<p>De uitgaande gesprekken gaan ongeveer hetzelfde, maar er zit een subtiel
+verschil in. Bij het opzetten van het gesprek moet er eerst een <dfn>SIP
+INVITE</dfn> worden gestuurd vanaf SpeakUp naar de PBX van de klant. Daarna moet
+de PBX het verder afhandelen. Er is een mogelijkheid om het gesprek weer terug
+te sturen naar SpeakUp, alwaar zij het verder afhandelen. Dan stuurt de PBX een
+<dfn>SIP INVITE</dfn> terug naar SpeakUp.</p>
 
