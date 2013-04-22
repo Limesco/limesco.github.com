@@ -32,6 +32,12 @@ section: over
   HP De Tijd: De telecom-dinosaurussen bedonderen ons
  </a>
 </li>
+<li>7 mei 2012:
+ <a title="Studenten beginnen eigen telecombedrijf"
+    href="http://www.trouw.nl/tr/nl/5009/Archief/archief/article/detail/3251653/2012/05/07/Studenten-beginnen-eigen-telecombedrijf.dhtml" target="_blank">
+  Trouw: Studenten beginnen eigen telecombedrijf
+ </a>
+</li>
 </ul>
 <a name="#2011"></a>
 <h2><a href="#2011">2011</a></h2>
