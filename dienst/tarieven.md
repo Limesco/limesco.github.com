@@ -196,6 +196,24 @@ Onderstaande tabel bevat de tarieven die Limesco B.V. aan eindgebruikers rekent.
     <td><em>Nog onbekend</em></td>
     <td><em>Nog onbekend</em></td>
 </tr>
+
+<tr>
+    <td colspan="2">Overschrijding internetbundel</td>
+    <td><em>Per MB</em></td>
+    <td><em>Per MB</em></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>Binnen de EU</td>
+    <td>0,8470</td>
+    <td>0,7000</td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>Buiten de EU</td>
+    <td>0,2000</td>
+    <td>0,1653</td>
+</tr>
 </table>
 
 
@@ -362,20 +380,5 @@ Onderstaande tabel bevat de tarieven die Limesco B.V. aan eindgebruikers rekent.
 <td> gratis </td>
 <td> gratis </td>
 <td> Per SMS
-</td></tr>
-<tr>
-<th colspan="5"> Mobiel internet (beide varianten)
-</th></tr>
-<tr>
-<td> Data buiten de bundel </td>
-<td> 0,1653 </td>
-<td> 0,2000 </td>
-<td> Per MB
-</td></tr>
-<tr>
-<td> Data in het buitenland (binnen EU) </td>
-<td> 0,7000 </td>
-<td> 0,8470 </td>
-<td> Per MB
 </td></tr>
 </table>
