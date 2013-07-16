@@ -17,7 +17,8 @@
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dienst</a>
           <ul class="dropdown-menu">
-{% for page in site.pages %}
+{% assign sorted_pages = site.pages | sort:"name" %}
+{% for page in sorted_pages %}
 {% if page.section == 'dienst' %}
             <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
@@ -28,7 +29,7 @@
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Technisch</a>
           <ul class="dropdown-menu">
-{% for page in site.pages %}
+{% for page in sorted_pages %}
 {% if page.section == 'technisch' %}
             <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
@@ -39,7 +40,7 @@
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Over</a>
           <ul class="dropdown-menu">
-{% for page in site.pages %}
+{% for page in sorted_pages %}
 {% if page.section == 'over' %}
             <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
@@ -63,7 +64,7 @@
     <div class="span2">
       <!--Sidebar content-->
       <ul class="nav nav-tabs nav-stacked">
-{% for p in site.pages %}
+{% for p in sorted_pages %}
 {% if page.section == p.section %}
         <li><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% endif %}
