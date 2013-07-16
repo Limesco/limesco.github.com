@@ -17,7 +17,7 @@
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dienst</a>
           <ul class="dropdown-menu">
-{% assign sorted_pages = site.pages | sort:"name" %}
+{% assign sorted_pages = site.pages | sort:"path" %}
 {% for page in sorted_pages %}
 {% if page.section == 'dienst' %}
             <li><a href="{{ page.url }}">{{ page.title }}</a></li>
@@ -25,7 +25,6 @@
 {% endfor %}
           </ul>
         </li>
-{% comment %}
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Technisch</a>
           <ul class="dropdown-menu">
@@ -36,7 +35,6 @@
 {% endfor %}
           </ul>
         </li>
-{% endcomment %}
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Over</a>
           <ul class="dropdown-menu">
