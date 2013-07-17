@@ -8,6 +8,9 @@ Onderstaande tabel bevat de tarieven die Limesco B.V. aan eindgebruikers rekent.
 * Data buiten de bundel wordt afgerond per 100 KB
 * Data in het buitenland (binnen EU) wordt afgerond per 1 MB
 
+De looptijd van een abonnement is <em>1 jaar</em>, daarna is het contract
+maandelijks opzegbaar.
+
 <table class="table table-condensed">
 <tr>
     <th colspan="2">Component</th>
