@@ -23,8 +23,8 @@ maandelijks opzegbaar.
 <tr>
     <td>Activeren</td>
     <td><em>Eenmalig</em></td>
-    <td>42,0000</td>
-    <td>34,7107</td>
+    <td style="text-align:right">42,0000</td>
+    <td style="text-align:right">34,7107</td>
 </tr>
 <tr>
     <td>SIM-kaart</td>
@@ -34,27 +34,27 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>zonder internet</td>
-    <td>3,5000</td>
-    <td>2,8926</td>
+    <td style="text-align:right">3,5000</td>
+    <td style="text-align:right">2,8926</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td><strong>met</strong> internet (500MB)</td>
-    <td>16,8000</td>
-    <td>13.8843</td>
+    <td style="text-align:right">16,8000</td>
+    <td style="text-align:right">13.8843</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td><strong>met</strong> internet (2000MB)</td>
-    <td>28,9000</td>
-    <td>23.8843</td>
+    <td style="text-align:right">28,9000</td>
+    <td style="text-align:right">23.8843</td>
 </tr>
 
 <tr>
     <td><a href="/dienst/liquid-pricing.html">Bijdrage Limesco</a></td>
     <td><em>Maandelijks</em></td>
-    <td>5,0000</td>
-    <td>4,1322</td>
+    <td style="text-align:right">5,0000</td>
+    <td style="text-align:right">4,1322</td>
 </tr>
 
 <tr>
@@ -65,8 +65,8 @@ maandelijks opzegbaar.
 <tr>
     <td>Bellen starttarief</td>
     <td><em>Per gesprek</em></td>
-    <td>0,0400</td>
-    <td>0,0331</td>
+    <td style="text-align:right">0,0400</td>
+    <td style="text-align:right">0,0331</td>
 </tr>
 <tr>
     <td>Limesco <a href="/dienst/out-of-the-box.html">Out-of-the-Box</a></td>
@@ -78,20 +78,20 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>Naar vaste Nederlandse nummers</td>
-    <td>0,1000</td>
-    <td>0,0826</td>
+    <td style="text-align:right">0,1000</td>
+    <td style="text-align:right">0,0826</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>Naar mobiele Nederlandse nummers</td>
-    <td>0,1000</td>
-    <td>0,0826</td>
+    <td style="text-align:right">0,1000</td>
+    <td style="text-align:right">0,0826</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>Gesprek ontvangen in Nederland</td>
-    <td><em>gratis</em></td>
-    <td><em>gratis</em></td>
+    <td style="text-align:right"><em>gratis</em></td>
+    <td style="text-align:right"><em>gratis</em></td>
 </tr>
 <tr>
     <td>Limesco <a href="/dienst/do-it-yourself.html">Do-It-Yourself</a></td>
@@ -103,14 +103,14 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>Inkomend (van server naar mobiel)</td>
-    <td>0,0710</td>
-    <td>0,0587</td>
+    <td style="text-align:right">0,0710</td>
+    <td style="text-align:right">0,0587</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>Uitgaand (van mobiel naar server)</td>
-    <td>0,0710</td>
-    <td>0,0587</td>
+    <td style="text-align:right">0,0710</td>
+    <td style="text-align:right">0,0587</td>
 </tr>
 
 <tr>
@@ -122,14 +122,14 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>SMS ontvangen in Nederland</td>
-    <td><em>gratis</em></td>
-    <td><em>gratis</em></td>
+    <td style="text-align:right"><em>gratis</em></td>
+    <td style="text-align:right"><em>gratis</em></td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>SMS versturen in Nederland</td>
-    <td>0,1250</td>
-    <td>0,1033</td>
+    <td style="text-align:right">0,1250</td>
+    <td style="text-align:right">0,1033</td>
 </tr>
 
 <tr>
@@ -140,14 +140,14 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>Bellen vanuit een EU-land</td>
-    <td>0,3409</td>
-    <td>0,2900</td>
+    <td style="text-align:right">0,3409</td>
+    <td style="text-align:right">0,2900</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>Gebeld worden in een EU-land</td>
-    <td>0,0968</td>
-    <td>0,0800</td>
+    <td style="text-align:right">0,0968</td>
+    <td style="text-align:right">0,0800</td>
 </tr>
 
 <tr>
@@ -158,14 +158,14 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>SMS versturen</td>
-    <td>0,1089</td>
-    <td>0,0900</td>
+    <td style="text-align:right">0,1089</td>
+    <td style="text-align:right">0,0900</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>SMS ontvangen</td>
-    <td>gratis</td>
-    <td>gratis</td>
+    <td style="text-align:right">gratis</td>
+    <td style="text-align:right">gratis</td>
 </tr>
 <tr>
     <td>Buitenland/<strong>non-EU</strong></td>
@@ -190,14 +190,14 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>SMS versturen</td>
-    <td><em>Nog onbekend</em></td>
-    <td><em>Nog onbekend</em></td>
+    <td style="text-align:right"><em>Nog onbekend</em></td>
+    <td style="text-align:right"><em>Nog onbekend</em></td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>SMS ontvangen</td>
-    <td><em>Nog onbekend</em></td>
-    <td><em>Nog onbekend</em></td>
+    <td style="text-align:right"><em>Nog onbekend</em></td>
+    <td style="text-align:right"><em>Nog onbekend</em></td>
 </tr>
 
 <tr>
@@ -208,13 +208,13 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>Binnen de EU</td>
-    <td>0,8470</td>
-    <td>0,7000</td>
+    <td style="text-align:right">0,8470</td>
+    <td style="text-align:right">0,7000</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>Buiten de EU</td>
-    <td>0,2000</td>
-    <td>0,1653</td>
+    <td style="text-align:right">0,2000</td>
+    <td style="text-align:right">0,1653</td>
 </tr>
 </table>
