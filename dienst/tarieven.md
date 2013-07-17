@@ -41,13 +41,13 @@ maandelijks opzegbaar.
     <td>&nbsp;</td>
     <td><strong>met</strong> internet (500MB)</td>
     <td style="text-align:right">16,8000</td>
-    <td style="text-align:right">13.8843</td>
+    <td style="text-align:right">13,8843</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td><strong>met</strong> internet (2000MB)</td>
     <td style="text-align:right">28,9000</td>
-    <td style="text-align:right">23.8843</td>
+    <td style="text-align:right">23,8843</td>
 </tr>
 
 <tr>
