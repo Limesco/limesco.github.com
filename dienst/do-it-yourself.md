@@ -13,7 +13,7 @@ geplaatst, kun je aan de slag.
 Zodra je gebruik maakt van SMS of internet, worden alle technische zaken nog
 steeds door ons afgehandeld. Wanneer je echter een telefoongesprek begint,
 zullen wij dat gesprek niet afleveren op de bestemming met het gekozen nummer,
-maar vertalen naar SIP en afleveren op de door jouw ingestelde server. Je bent
+maar vertalen naar SIP en afleveren op de door jou ingestelde server. Je bent
 nu zelf in staat om te bepalen hoe het gesprek verder wordt afgehandeld.
 
 Hetzelfde gebeurt bij inkomende gesprekken. Wanneer iemand het 06-nummer
