@@ -11,6 +11,5 @@ techniek.
 
 Het voordeel van Out-of-the-Box van Limesco is dat je kan bellen, zonder je
 druk te maken om de techniek, maar wel aangesloten bent via een aanbieder die
-jouw wensen en waarden respecteert. Uiteraard ben je niet in staat om
-verregaande invloed uit te oefenen op de techniek, omdat je dat aan ons hebt
-uitbesteed.
+jouw wensen en waarden respecteert. Je hebt hierdoor wel minder invloed in de
+technische kant van het verhaal.
