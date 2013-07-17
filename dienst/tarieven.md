@@ -164,8 +164,8 @@ maandelijks opzegbaar.
 <tr>
     <td>&nbsp;</td>
     <td>SMS ontvangen</td>
-    <td style="text-align:right">gratis</td>
-    <td style="text-align:right">gratis</td>
+    <td style="text-align:right"><em>gratis</em></td>
+    <td style="text-align:right"><em>gratis</em></td>
 </tr>
 <tr>
     <td>Buitenland/<strong>non-EU</strong></td>
