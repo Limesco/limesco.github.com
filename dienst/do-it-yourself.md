@@ -18,6 +18,6 @@ nu zelf in staat om te bepalen hoe het gesprek verder wordt afgehandeld.
 
 Hetzelfde gebeurt bij inkomende gesprekken. Wanneer iemand het 06-nummer
 belt dat aan je SIM-kaart is gekoppeld, zullen wij dat afleveren op jouw
-SIP-server. Je bent daardoor zelf verantwoordelijk om het gesprek te routeren
-naar je mobiele toestel, maar je kunt ook kiezen voor een alternatieve
-afhandeling van het gesprek.
+SIP-server. Op deze manier ben je zelf verantwoordelijk voor het routeren van
+het gesprek naar je mobiele toestel. Je kunt ook kiezen voor een
+alternatieve afhandeling van het gesprek.
