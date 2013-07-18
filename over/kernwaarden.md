@@ -12,22 +12,22 @@ zaken met elkaar kunnen blijven doen.
 
 ### Veiligheid
 
-Als aanbieder is het onze taak om ervoor te zorgen dat we de veiligheid van onze
-infrastructuur en administratie op een goed niveau houden. Wij doen dit onder
-andere door ervoor te zorgen dat informatie die niet publiek is weg te houden
-van systemen die direct via internet te bereiken zijn.
+Het is onze taak om ervoor te zorgen dat we de veiligheid van onze
+infrastructuur en administratie op een goed niveau houden. Wij doen dit o.a.
+door ervoor te zorgen dat informatie die niet publiek is weg te houden
+van systemen die direct via internet te bereiken zijn. Dit betreft
+privacy-gevoelige informatie zoals NAW-gegevens en belgedrag.
 
 Er is echter informatie die alsnog op systemen geplaatst wordt die via internet
 te bereiken zijn. Door het up-to-date houden van deze systemen en het toepassen
-van technieken om inbraak te voorkomen, kunnen wij het risisco tot een minimum
+van technieken om inbraak te voorkomen, kunnen wij het risico tot een minimum
 beperken.
 
 ### Privacy
 
-Als geen enkele aanbieder staat bij Limesco de privacy van de gebruiker
-centraal. Wanneer er keuzes gemaakt moeten worden tussen privacy enerzijds en
-andere aspecten, zoals gebruiksgemak, anderzijds, staan wij altijd stil bij de
-gevolgen voor privacy.
+Bij Limesco staat de privacy van de gebruiker centraal. Wanneer er keuzes gemaakt
+moeten worden tussen privacy enerzijds en andere aspecten, zoals gebruiksgemak,
+anderzijds, staan wij altijd stil bij de gevolgen voor privacy.
 
 Waar mogelijk legt Limesco de beslissing voor het vinden van de juiste balans
 bij de gebruiker neer. Dit zorgt ervoor dat wij als aanbieder een aantal opties
@@ -36,32 +36,26 @@ op de <a href="/over/privacy.html">Privacy</a>-pagina.
 
 ### Transparantie
 
-Waar aan de ene kant gebruikers de mogelijkheid krijgen om zelf te bepalen hoe
-informatie over hun beschikbaar is, willen we deze privileges niet voor Limesco
-als organisatie behouden. Dat betekent dat we zo veel mogelijk willen voorkomen
-dat wij geheimen hebben voor onze gebruikers.
+We willen zo min mogelijk geheimen hebben voor onze gebruikers. Als wij
+informatie hebben over een gebruiker (denk aan belgegevens) dan moet de
+gebruiker kunnen beslissen wat er met die informatie gebeurt.
 
-In de praktijk lukt dit erg goed. We zijn als organisatie gebonden aan
-geheimhoudingsovereenkomsten, omdat er partijen zijn waar we anders niet mee
-kunnen samenwerken. We hebben die aantal echter tot een minimum weten te
-beperken.
+De geheimen die we hebben kunnen we uiteraard niet openbaren, maar we laten wel
+weten dat ze er zijn. Voor sommige zaken moeten we een
+geheimhoudingsovereenkomst tekenen. De inkooptarieven zijn hier een voorbeeld van.
 
 Buiten deze overeenkomsten zijn wij volledig open. Je kunt ons daarom altijd
-vragen waarom bepaalde keuzes zijn gemaakt of hoe dingen in elkaar steken. Door
-zoveel mogelijk transparant te zijn in hoe Limesco werkt hopen wij een hoger
-niveau van vertrouwen te genieten dan aanbieders waar een mysterieus gevoel van
-geheimhoudingen hangt.
+vragen waarom bepaalde keuzes zijn gemaakt. Door zoveel mogelijk transparant te
+zijn in hoe Limesco werkt hopen wij een hoger niveau van vertrouwen te kunnen
+bereiken met onze gebruikers.
 
 ### Eerlijkheid
 
-Hoewel we eerlijkheid als laatste noemen is het misschien nog wel de
-belangrijkste. Waar de meeste aanbieders proberen zichzelf beter te laten lijken
-dan ze zijn, bijvoorbeeld door het toepassen van marketingtrucs, kiest Limesco
-ervoor om duidelijk en eerlijk te zijn in zaken als kosten en onze andere
-kernwaarden.
+*Eerlijkheid duurt het langst*, zo luidt het gezegde. Wij kiezen ervoor
+om duidelijk en eerlijk te zijn in, bijvoorbeeld, kosten en werking van de
+organisatie.
 
-Dat betekent bijvoorbeeld dat als veiligheid of privacy toch niet op het niveau
-blijkt te zijn als we hadden verwacht, bijvoorbeeld door een datalek, wij onze
-gebruikers daarvan op de hoogte brengen. Het betekent bovenal dat wij niet bang
-hoeven te zijn dat er een groot geheim uitlekt en dat wij het vertrouwen van
-onze gebruikers waardig zijn.
+Bij ons is het vanzelfsprekend dat we onze gebruikers informeren wanneer er iets
+misgaat op het gebied van veiligheid of privacy. Als onverhoopt blijkt dat er
+informatie op straat ligt van de gebruikers moeten ze daarover ge&iuml;nformeerd
+worden.
