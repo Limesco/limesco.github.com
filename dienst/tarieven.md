@@ -207,13 +207,13 @@ maandelijks opzegbaar.
 </tr>
 <tr>
     <td>&nbsp;</td>
-    <td>Binnen de EU</td>
+    <td>Binnen Nederland</td>
     <td style="text-align:right">0,8470</td>
     <td style="text-align:right">0,7000</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
-    <td>Buiten de EU</td>
+    <td>Binnen de EU</td>
     <td style="text-align:right">0,2000</td>
     <td style="text-align:right">0,1653</td>
 </tr>
