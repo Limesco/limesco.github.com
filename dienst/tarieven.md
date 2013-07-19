@@ -201,20 +201,20 @@ maandelijks opzegbaar.
 </tr>
 
 <tr>
-    <td colspan="2">Overschrijding internetbundel</td>
+    <td colspan="2">Kosten buiten internetbundel</td>
     <td><em>Per MB</em></td>
     <td><em>Per MB</em></td>
 </tr>
 <tr>
     <td>&nbsp;</td>
-    <td>Binnen Nederland</td>
-    <td style="text-align:right">0,8470</td>
-    <td style="text-align:right">0,7000</td>
+    <td>Overschrijding binnen Nederland</td>
+    <td style="text-align:right">0,2000</td>
+    <td style="text-align:right">0,1653</td>
 </tr>
 <tr>
     <td>&nbsp;</td>
     <td>Binnen de EU</td>
-    <td style="text-align:right">0,2000</td>
-    <td style="text-align:right">0,1653</td>
+    <td style="text-align:right">0,8470</td>
+    <td style="text-align:right">0,7000</td>
 </tr>
 </table>
