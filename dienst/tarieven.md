@@ -51,7 +51,7 @@ maandelijks opzegbaar.
 </tr>
 
 <tr>
-    <td><a href="/dienst/liquid-pricing.html">Bijdrage Limesco</a></td>
+    <td><a href="/dienst/tarieven/liquid-pricing.html">Bijdrage Limesco</a></td>
     <td><em>Maandelijks</em></td>
     <td style="text-align:right">5,0000</td>
     <td style="text-align:right">4,1322</td>
