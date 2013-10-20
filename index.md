@@ -28,4 +28,4 @@ kan je precies waar zien je telefoonrekening op is gebaseerd. <br />
 <p>Bestel nu je SIM via de <a href="https://limesco.org/inschrijven/">activatiewizard</a>, en
 je belt nog geen week later met Limesco. Nog niet helemaal zeker of je de
 overstap wilt maken? Stel een vraag, geef feedback of uit je kritiek: wij
-luisteren naar je op <a href="mailto:support@limesco.nl">support@limesco.nl</a>.
+luisteren naar je op <a href="mailto:support@limesco.nl">support@limesco.nl</a>.</p>
