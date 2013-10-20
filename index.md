@@ -20,7 +20,7 @@ technisch? Geen zorgen, we hebben ook standaard abonnementen die
 
 <h3>Openheid in tarieven</h3>
 <p>Voor bellen en SMS-en hebben we <em>geen</em> buitenbundeltarief. Andere
-kosten, zoals de kosten voor de SIM-kaart, staan uitgesplitst per component. Zo
+kosten, zoals de kosten voor de SIM, staan uitgesplitst per component. Zo
 kan je precies waar zien je telefoonrekening op is gebaseerd. <br />
 <a href="/dienst/tarieven.html">Lees meer over de tarieven &#x226b;</a></p>
 
