@@ -23,15 +23,20 @@ Sophiaweg 34
 Mocht je een vertrouwelijke mail willen sturen, kun je deze encrypten met PGP.
 De vier keys die je daarvoor gebruikt zijn:
 <ul>
-	<li>59A66010 / 7F635009 (Sjors Gielen)</li>
-	<li>81493F83 (Gerdriaan Mulder)</li>
+	<li><tt>59A66010</tt> / <tt>7F635009</tt> (Sjors Gielen)</li>
+	<li><tt>81493F83</tt> (Gerdriaan Mulder)</li>
 </ul>
 
 <h3>KvK / BTW / Rekeningnummer / OPTA</h3>
 <ul>
-	<li>Kamer van Koophandel: 55258778</li>
-	<li>BTW-nummer: NL851628709B01</li>
-	<li>Rabobank: 1692.07.587 t.n.v. Limesco B.V.</li>
-	<li>OPTA-registratie: 942450</li>
+	<li>Kamer van Koophandel: <tt>55258778</tt></li>
+	<li>BTW-nummer: <tt>NL851628709B01</tt></li>
+	<li>Rabobank:
+	<ul>
+		<li>BIC: <tt>RABONL2U</tt></li>
+		<li>IBAN: <tt>NL24RABO0169207587</tt></li>
+		<li>Tenaamstelling: Limesco B.V.</li>
+	</ul></li>
+	<li>OPTA-registratie: <tt>942450</tt></li>
 </ul>
 </p>
