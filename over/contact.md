@@ -9,8 +9,8 @@ section: over
 Het postadres van Limesco is:
 <pre>
 Limesco B.V. 
-Gildeplein 9
-6612 BC Nederasselt</pre>
+Sophiaweg 34
+6523 NJ Nijmegen</pre>
 </p>
 
 <h3>E-mail / support</h3>
@@ -24,7 +24,6 @@ Mocht je een vertrouwelijke mail willen sturen, kun je deze encrypten met PGP.
 De vier keys die je daarvoor gebruikt zijn:
 <ul>
 	<li>59A66010 / 7F635009 (Sjors Gielen)</li>
-	<li>3200BBC7 (Mark van Cuijk)</li>
 	<li>81493F83 (Gerdriaan Mulder)</li>
 </ul>
 
