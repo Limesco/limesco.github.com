@@ -79,11 +79,13 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 {% endif %}
 {% for p in sorted_pages %}
 {% if page.section == p.section %}
+{% unless p.title == "Er is iets stuk" %}
 {% if page.title == p.title %}
         <li class="active"><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% else %}
         <li><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% endif %}
+{% endunless %}
 {% endif %}
 {% endfor %}
 {% if page.section == "over" %}

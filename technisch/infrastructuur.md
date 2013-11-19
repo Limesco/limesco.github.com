@@ -15,7 +15,7 @@ operator</em> aan bij een zogenaamde <em>MVNE</em>: Mobile Virtual Network
 Enabler. Daarvan zijn er in Nederland vier:</p>
 
 <ul>
-	<li><a href="http://www.aspidersolutions.nle/">Aspider Solutions</a> (gebruikt KPN, Vodafone en T-Mobile)</li>
+	<li><a href="http://www.aspidersolutions.nl/">Aspider Solutions</a> (gebruikt KPN, Vodafone en T-Mobile)</li>
 	<li><a href="http://www.elephanttalk.com/">Elephant Talk</a> (gebruikt T-Mobile)</li>
 	<li><a href="http://www.narrowminds.com/">NarrowMinds</a> (gebruikt T-Mobile)</li>
 	<li><a href="http://www.teleena.nl/">Teleena</a> (gebruikt Vodafone)</li>
