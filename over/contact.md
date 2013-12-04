@@ -21,7 +21,7 @@ Sophiaweg 34
 </ul>
 
 Mocht je een vertrouwelijke mail willen sturen, kun je deze encrypten met PGP.
-De vier keys die je daarvoor gebruikt zijn:
+De drie keys die je daarvoor gebruikt zijn:
 <ul>
 	<li><tt>59A66010</tt> / <tt>7F635009</tt> (Sjors Gielen)</li>
 	<li><tt>81493F83</tt> (Gerdriaan Mulder)</li>
