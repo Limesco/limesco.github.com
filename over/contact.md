@@ -17,13 +17,13 @@ Sophiaweg 34
 <p>
 <ul>
 	<li>Supportvragen kunnen naar <a href="mailto:support@limesco.nl">support@limesco.nl</a></li>
-	<li>Overig: <a href="mailto:bv@limesco.nl">bv@limesco.nl</a></li>
+	<li>Overig: <a href="mailto:directie@limesco.nl">directie@limesco.nl</a></li>
 </ul>
 
 Mocht je een vertrouwelijke mail willen sturen, kun je deze encrypten met PGP.
 De drie keys die je daarvoor gebruikt zijn:
 <ul>
-	<li><tt>59A66010</tt> / <tt>7F635009</tt> (Sjors Gielen)</li>
+	<li><tt>34AA433E</tt> &amp; <tt>59A66010</tt> (Sjors Gielen)</li>
 	<li><tt>81493F83</tt> (Gerdriaan Mulder)</li>
 </ul>
 
