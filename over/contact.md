@@ -24,7 +24,7 @@ Mocht je een vertrouwelijke mail willen sturen, kun je deze encrypten met PGP.
 De drie keys die je daarvoor gebruikt zijn:
 <ul>
 	<li><tt>34AA433E</tt> &amp; <tt>59A66010</tt> (Sjors Gielen)</li>
-	<li><tt>81493F83</tt> (Gerdriaan Mulder)</li>
+	<li><tt>518BFC29</tt> (Gerdriaan Mulder)</li>
 </ul>
 
 <h3>KvK / BTW / Rekeningnummer / OPTA</h3>
