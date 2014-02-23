@@ -50,8 +50,7 @@ als je een vraag hebt, wordt deze serieus genomen en behandeld door mensen met
 verstand van zaken. Ook feedback op onze dienstverlening is zeker welkom!</p>
 
 <p>
-Zoek je nog meer informatie? Kom direct met ons in <a
-href="https://secure.limesco.nl/wiki/Support">contact</a> via <a
+Zoek je nog meer informatie? Kom direct met ons in contact via <a
 href="mailto:support@limesco.nl">support@limesco.nl</a>.</p>
 
 <blockquote><em>To have the choice between proprietary software packages, is
