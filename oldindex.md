@@ -25,7 +25,7 @@ kan je precies waar zien je telefoonrekening op is gebaseerd. <br />
 <a href="/dienst/tarieven.html">Lees meer over de tarieven &#x226b;</a></p>
 
 <h3>Overtuigd?</h3>
-<p>Bestel nu je SIM via de <a href="https://limesco.org/inschrijven/">activatiewizard</a>, en
+<p>Bestel nu je SIM via de <a href="https://inschrijven.limesco.nl/">inschrijfwizard</a>, en
 je belt nog geen week later met Limesco. Nog niet helemaal zeker of je de
 overstap wilt maken? Stel een vraag, geef feedback of uit je kritiek: wij
 luisteren naar je op <a href="mailto:support@limesco.nl">support@limesco.nl</a>.</p>
