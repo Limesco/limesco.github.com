@@ -15,7 +15,9 @@ inclusief btw. Items worden afgerond volgens de volgende regels:
 Ieder abonnement bij Limesco is maandelijks opzegbaar.
 
 <table class="table table-condensed">
-<tr><td colspan='4'><em>Abonnementskosten</em></td></tr>
+<tr><td colspan='2'><em>Abonnementskosten</em></td>
+  <td style='text-align:right;'>&euro;</td><td></td></tr>
+
 <tr><td>Activeren</td>
   <td><em>Eenmalig</em></td>
   <td style='text-align:right;'>42,0000</td><td></td></tr>
