@@ -1,0 +1,29 @@
+.maakhetverschil {
+	height: 40px;
+	line-height: 40px;
+	margin: 20px 0;
+	background-color: #4aaf46;
+	text-align: center;
+	border: 3px solid black;
+}
+
+.maakhetverschil a {
+	color: black;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+.incbtw {
+	float: right;
+	font-size: 6pt;
+	margin-top: -20px;
+}
+
+.twitter-tweet {
+	margin: 10px auto !important;
+}
+
+.social {
+	margin-top: 15px;
+	text-align: center;
+}
