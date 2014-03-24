@@ -9,7 +9,7 @@ eindgebruikers rekent. Alle prijzen in onderstaande tabel zijn in euro's en
 inclusief btw. Items worden afgerond volgens de volgende regels:
 
 * Alle gesprekken worden afgerond per seconde
-* Data buiten de bundel wordt afgerond per 100 KB
+* Data wordt afgerond per 100 KB
 * Data in het buitenland (binnen EU) wordt afgerond per 1 MB
 
 Ieder abonnement bij Limesco is maandelijks opzegbaar.
