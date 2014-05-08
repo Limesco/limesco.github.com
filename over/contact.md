@@ -18,7 +18,7 @@ Sophiaweg 34
 <ul>
 	<li>Supportvragen kunnen naar <a href="mailto:support@limesco.nl">support@limesco.nl</a></li>
 	<li>Overige mail: <a href="mailto:directie@limesco.nl">directie@limesco.nl</a></li>
-	<li>Telefoonnummer: <a href="tel:+31632271337">+31 6 3227 1337</a>(supportvragen aub niet telefonisch)</li>
+	<li>Telefoonnummer: <a href="tel:+31632271337">+31 6 3227 1337</a> (supportvragen aub niet telefonisch)</li>
 </ul>
 
 Mocht je een vertrouwelijke mail willen sturen, kun je deze encrypten met PGP.
