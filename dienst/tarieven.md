@@ -10,7 +10,6 @@ inclusief btw. Items worden afgerond volgens de volgende regels:
 
 * Alle gesprekken worden afgerond per seconde
 * Data wordt afgerond per 100 KB
-* Data in het buitenland (binnen EU) wordt afgerond per 1 MB
 
 Ieder abonnement bij Limesco is maandelijks opzegbaar.
 
@@ -78,7 +77,7 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
 Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn de volgende 28 landen: <em>België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Nederland, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk, Zweden en Kroatië.</em> Alle prijzen in onderstaande tabel zijn in euro's en inclusief btw. Items worden afgerond volgens de volgende regels:
 
 * Alle gesprekken worden afgerond per seconde
-* Data binnen de EU wordt afgerond per 1 MB
+* Data binnen de EU wordt afgerond per 1 KB
 
 <table class="table table-condensed">
 <tr><td colspan='2'><em>Kosten</em></td>
@@ -120,7 +119,7 @@ Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn 
   <td></td>
 </tr>
 <tr><td>Data verbruiken</td>
-  <td><em>Afgerond op MB's</em></td>
+  <td><em>Afgerond op KB's</em></td>
   <td style='text-align:right;'>0,54</td>
   <td>per MB</td>
 </tr>
