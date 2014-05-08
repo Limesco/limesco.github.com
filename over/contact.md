@@ -13,11 +13,12 @@ Sophiaweg 34
 6523 NJ Nijmegen</pre>
 </p>
 
-<h3>E-mail / support</h3>
+<h3>Contact / support</h3>
 <p>
 <ul>
 	<li>Supportvragen kunnen naar <a href="mailto:support@limesco.nl">support@limesco.nl</a></li>
-	<li>Overig: <a href="mailto:directie@limesco.nl">directie@limesco.nl</a></li>
+	<li>Overige mail: <a href="mailto:directie@limesco.nl">directie@limesco.nl</a></li>
+	<li>Telefoonnummer: <a href="tel:+31632271337">+31 6 3227 1337</a>(supportvragen aub niet telefonisch)</li>
 </ul>
 
 Mocht je een vertrouwelijke mail willen sturen, kun je deze encrypten met PGP.
@@ -25,6 +26,7 @@ De drie keys die je daarvoor gebruikt zijn:
 <ul>
 	<li><tt>34AA433E</tt> &amp; <tt>59A66010</tt> (Sjors Gielen)</li>
 	<li><tt>518BFC29</tt> (Gerdriaan Mulder)</li>
+	<li><tt>fb149c10</tt> (Peter van der Veeken)</li>
 </ul>
 
 <h3>KvK / BTW / Rekeningnummer / OPTA</h3>
