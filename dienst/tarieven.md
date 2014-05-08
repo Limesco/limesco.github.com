@@ -72,3 +72,62 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
   <td style='text-align:right;'>0,0100</td>
   <td>per MB</td></tr>
 </table>
+
+<h2>Europese unie</h2>
+
+Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn de volgende 28 landen: <em>België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Nederland, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk, Zweden en Kroatië.</em> Alle prijzen in onderstaande tabel zijn in euro's en inclusief btw. Items worden afgerond volgens de volgende regels:
+
+* Alle gesprekken worden afgerond per seconde
+* Data binnen de EU wordt afgerond per 1 MB
+
+<table class="table table-condensed">
+<tr><td colspan='2'><em>Kosten</em></td>
+  <td style='text-align:right;'>&euro;</td><td></td></tr>
+
+<tr><td colspan='4'><em>Vanuit Nederland naar een EU-land</em></td></tr>
+
+<tr><td>Bellen</td>
+  <td><em>Afgerond op seconden</em></td>
+  <td style='text-align:right;'>0,29</td>
+  <td>per minuut</td>
+</tr>
+<tr><td>sms sturen</td>
+  <td><em></em></td>
+  <td style='text-align:right;'>0,09</td>
+  <td>per stuk</td>
+</tr>
+
+<tr><td colspan='4'><em>Vanuit een EU-land naar een ander EU-land (inclusief Nederland en het land waar je bent)</em></td></tr>
+
+<tr><td>Bellen</td>
+  <td><em>Afgerond op seconden</em></td>
+  <td style='text-align:right;'>0,29</td>
+  <td>per minuut</td>
+</tr>
+<tr><td>Gebeld worden</td>
+  <td><em>Afgerond op seconden</em></td>
+  <td style='text-align:right;'>0,08</td>
+  <td>per minuut</td>
+</tr>
+<tr><td>sms sturen</td>
+  <td><em></em></td>
+  <td style='text-align:right;'>0,09</td>
+  <td>per stuk</td>
+</tr>
+<tr><td>sms ontvangen</td>
+  <td></td>
+  <td style='text-align:right;'><em>gratis</em></td>
+  <td></td>
+</tr>
+<tr><td>data verbruiken</td>
+  <td><em>Afgerond op MB's</em></td>
+  <td style='text-align:right;'>0,54</td>
+  <td>per MB</td>
+</tr>
+
+</table>
+
+<h2>Wereld</h2>
+
+Tarieven voor bellen, sms en data buiten de EU zijn vanuit onze leverancier vaak nog ondoorzichtig en niet goedkoop. We werken nog aan goede en transparante tarieven om dit aan te bieden. Mocht je informatie willen hebben over een specifiek land, mail ons dan vooral op <a href="mailto:support@limesco.nl">support@limesco.nl</a> en we helpen je verder.
+
