@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tarieven
-section: dienst
+section: tarieven
 ---
 
 Onderstaande tabel bevat de tarieven die Limesco sinds 24 maart 2014 aan

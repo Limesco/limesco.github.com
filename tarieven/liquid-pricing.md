@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Liquid Pricing
-section: dienst
+section: tarieven
 ---
 ### Wat is *Liquid Pricing*?
 Liquid Pricing stond mede aan de wieg van Limesco. Sinds december 2012, het
