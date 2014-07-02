@@ -13,17 +13,35 @@ permalink: "over/in-de-media.html"
 # In de media
   </div>
   <div class="panel-body">
-<a name="#2014"></a>
-<h2><a href="#2014">2014</a></h2>
+<h2>2014</h2>
 <ul>
+  <li>23 juni 2014:
+    <a href="http://bitcoinspot.nl/even-voorstellen-limesco.html" target="_blank">
+      Bitcoinspot: Even voorstellen: Limesco
+    </a>
+  </li>
+  <li>23 juni 2014:
+    <a href="http://www.bitcoinweb.nl/kennismaken-met/1114/kennismaken-met-limesco/" target="_blank">
+      BitcoinWeb: Kennismaken met ... Limesco
+    </a>
+  </li>
+  <li>23 juni 2014:
+    <a href="http://www.bitcoinplaza.info/bitcoin-nieuws/je-telefoon-rekening-betalen-met-bitcoin/" target="_blank">
+      Bitcoin Plaza: Je telefoonrekening betalen met Bitcoin
+    </a>
+  </li>
+  <li>25 maart 2014:
+    <a href="http://www.telecompaper.com/news/limesco-eliminates-data-bundles--1004004" target="_blank">
+      Telecompaper: Limesco eliminates data bundles
+    </a>
+  </li>
  <li>24 maart 2014:
   <a href="https://tweakers.net/nieuws/95003/hackersprovider-schaft-databundels-af-en-gaat-ipv6-aanbieden.html" target="_blank" rel="nofollow">
    Tweakers.net: 'Hackersprovider' schaft databundels af en gaat ipv6 aanbieden
   </a>
  </li>
 </ul>
-<a name="#2013"></a>
-<h2><a href="#2013">2013</a></h2>
+<h2>2013</h2>
 <ul>
  <li>2 januari 2013:
   <a href="http://blogs.wallstreetjournal.de/wsj-tech/2013/01/02/hacker-betreiben-eigenes-mobilfunknetz/" target="_blank">
@@ -31,8 +49,7 @@ permalink: "over/in-de-media.html"
   </a>
  </li>
 </ul>
-<a name="#2012"></a>
-<h2><a href="#2012">2012</a></h2>
+<h2>2012</h2>
 <ul>
  <li>16 december 2012:
   <a href="http://derstandard.at/1355459790437/Community-Mobilfunker-fuer-Hacker-am-CCC-Kongress" target="_blank">
@@ -57,8 +74,7 @@ permalink: "over/in-de-media.html"
  </a>
 </li>
 </ul>
-<a name="#2011"></a>
-<h2><a href="#2011">2011</a></h2>
+<h2>2011</h2>
 <ul>
  <li>1 december 2011:
   <a href="http://tweakers.net/nieuws/78467/nederlandse-hackersprovider-gaat-volgend-jaar-van-start.html" target="_blank">
