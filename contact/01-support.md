@@ -1,19 +1,10 @@
 ---
 layout: default
-title: Contactgegevens
-section: over
+title: Support
+section: contact
+permalink: "support.html"
 ---
-
-<h3>Post</h3>
-<p>
-Het postadres van Limesco is:
-<pre>
-Limesco B.V. 
-Sophiaweg 34
-6523 NJ Nijmegen</pre>
-</p>
-
-<h3>Contact / support</h3>
+<h3>Support</h3>
 <p>
 <ul>
 	<li>Supportvragen kunnen naar <a href="mailto:support@limesco.nl">support@limesco.nl</a></li>
@@ -29,16 +20,3 @@ De vier keys die je daarvoor gebruikt zijn:
 	<li><tt>FB149C10</tt> (Peter van der Veeken)</li>
 </ul>
 
-<h3>KvK / BTW / Rekeningnummer / OPTA</h3>
-<ul>
-	<li>Kamer van Koophandel: <tt>55258778</tt></li>
-	<li>BTW-nummer: <tt>NL851628709B01</tt></li>
-	<li>Rabobank:
-	<ul>
-		<li>BIC: <tt>RABONL2U</tt></li>
-		<li>IBAN: <tt>NL24RABO0169207587</tt></li>
-		<li>Tenaamstelling: Limesco B.V.</li>
-	</ul></li>
-	<li>OPTA-registratie: <tt>942450</tt></li>
-</ul>
-</p>
