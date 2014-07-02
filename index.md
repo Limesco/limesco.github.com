@@ -10,7 +10,7 @@ title: hoofdpagina
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
-          Bundelloos
+          <h1>Bundelloos</h1>
         </div>
         <div class="panel-body">
           <div class="panel-img-left">
@@ -28,7 +28,7 @@ title: hoofdpagina
     <div class="col-sm-4 col-md-4 pull-right">
       <div class="panel panel-success fill">
         <div class="panel-heading">
-          Overtuigd van Limesco?
+          <h1>Overtuigd van Limesco?</h1>
         </div>
         <div class="panel-body">
           <p>
@@ -59,16 +59,16 @@ title: hoofdpagina
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
-          Bitcoin
+          <h1>Bitcoin</h1>
         </div>
         <div class="panel-body">
           <div class="panel-img-left">
             <img src="img/bitcoin.png" />
           </div>
           <p>
-          Als een van de eerste telecomoperators in de wereld accepteren
+          Als een van de eerste telecom-operators in de wereld accepteren
           wij Bitcoin als betaalmiddel! Uiteraard kan je ook gewooon betalen
-          via <em>automatisch incasso</em> en <em>iDeal</em>.
+          via <em>automatische incasso</em> en <em>iDeal</em>.
           </p>
         </div>
       </div>
@@ -81,7 +81,7 @@ title: hoofdpagina
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
-          Open en eerlijk
+          <h1>Open en eerlijk</h1>
         </div>
         <div class="panel-body">
           <div class="panel-img-left">
@@ -99,7 +99,7 @@ title: hoofdpagina
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
-          PBX
+          <h1>PBX</h1>
         </div>
         <div class="panel-body">
           <div class="panel-img-left">
@@ -107,10 +107,10 @@ title: hoofdpagina
             <!-- icon by Youdu, CC-BY -->
           </div>
           <p>
-          Zelf je belverkeer afhandelen? Geen probleem! Met
-          <em>Do-It-Yourself</em> leg je de controle over je belgedrag bij
-          jezelf! Met je eigen telefooncentrale krijg je volledige
-          flexibiliteit over je 06-nummer.
+          Zelf je belverkeer afhandelen? Geen probleem! Met <a
+          href="/dienst/do-it-yourself.html"><em>Do-It-Yourself</em></a> leg je
+          de controle over je belgedrag bij jezelf! Met je eigen
+          telefooncentrale krijg je volledige flexibiliteit over je 06-nummer.
           </p>
         </div>
       </div>
@@ -123,18 +123,18 @@ title: hoofdpagina
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
-          Actieve community
+          <h1>Actieve community</h1>
         </div>
         <div class="panel-body">
           <div class="panel-img-left">
             <img src="img/community.png" />
           </div>
           <p>
-          Een telefonieprovider is niks zonder gebruikers. Zij dragen bij
-          aan Limesco via onze <em>knowledgebase</em> in de vorm van een <a
-          href="https://secure.limesco.nl/wiki/">wiki</a>, onze <a
-          href="https://github.com/Limesco">software</a> en nog veel meer.
-          Doe je mee?
+          Een telefonieprovider is niks zonder gebruikers. Zij dragen bij aan
+          Limesco via onze <em>knowledgebase</em> in de vorm van een <a
+          href="https://secure.limesco.nl/wiki/" target="_blank">wiki</a>, onze
+          <a href="https://github.com/Limesco" target="_blank">software</a> en
+          nog veel meer. Doe je mee?
           </p>
         </div>
       </div>
@@ -142,7 +142,7 @@ title: hoofdpagina
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
-          API en IPv6
+          <h1>API en IPv6</h1>
         </div>
         <div class="panel-body">
           <div class="panel-img-left">

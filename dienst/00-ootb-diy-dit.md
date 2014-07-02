@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ootb, DIY of DIT
+title: OotB, DIY of DIT
 section: dienst
 permalink: "dienst/index.html"
 ---
@@ -37,7 +37,7 @@ opzetten.
 
 Helaas zijn we niet de goedkoopste aanbieder van telefonie. Als je goed kijkt op
 de [Tarieven](/dienst/tarieven.html)-pagina, zie je dat er bij de
-<em>Out-of-the-box</em>-variant redelijk standaard tarieven staan. Wat opvalt
+<em>Out-of-the-Box</em>-variant redelijk standaard tarieven staan. Wat opvalt
 bij <em>DIY</em> is dat er ineens kosten worden berekend voor gesprekken
 <strong>naar</strong> de telefoon.
 
@@ -49,7 +49,7 @@ uitgaande gesprekken. Hierdoor lijken inkomende gesprekken gratis, terwijl er
 bij de operator voor wordt betaald.
 
 De manier waarop dit gebeurt is niet bijzonder transparant. Voor
-<em>Out-of-the-box</em> hebben we ervoor gekozen om te conformeren met de
+<em>Out-of-the-Box</em> hebben we ervoor gekozen om te conformeren met de
 gevestigde orde. Dit is omdat het voor Nederlandse begrippen gek is om voor
 inkomende gesprekken te betalen.
 

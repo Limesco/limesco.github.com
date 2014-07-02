@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Out-of-the-box
+title: Out-of-the-Box
 section: dienst
 permalink: "dienst/out-of-the-box.html"
 ---
@@ -9,7 +9,7 @@ permalink: "dienst/out-of-the-box.html"
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-# Out-of-the-box
+# Out-of-the-Box
   </div>
   <div class="panel-body">
 
