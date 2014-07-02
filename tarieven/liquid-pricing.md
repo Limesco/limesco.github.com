@@ -3,7 +3,15 @@ layout: default
 title: Liquid Pricing
 section: tarieven
 ---
-### Wat is *Liquid Pricing*?
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Wat is *Liquid Pricing*?
+  </div>
+  <div class="panel-body">
+
 Liquid Pricing stond mede aan de wieg van Limesco. Sinds december 2012, het
 moment dat we onze eerste abonnees kregen, heeft iedere abonnee maandelijks 5
 euro extra bijgedragen, om de basiskosten te kunnen dekken voor Limesco om te
@@ -19,3 +27,5 @@ en dus kan de Liquid Pricing naar beneden! Zodra Limesco 150 abonnees heeft,
 bereikt de liquid pricing het nulpunt en wordt hij opgeheven. De actuele prijs
 kan je vinden op de tarievenpagina.
 
+  </div>
+</div>

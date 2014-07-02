@@ -5,6 +5,15 @@ categorie: main
 section: over
 permalink: "over/privacy.html"
 ---
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Privacy
+  </div>
+  <div class="panel-body">
+
 Bij Limesco vinden we privacy belangrijk. Privacy is vaak een afweging tussen
 gebruiksgemak en veiligheid. Deze afweging maakt elk bedrijf, soms onbewust,
 maar eigenlijk nooit in samenwerking met de gebruikers van wie de gegevens
@@ -29,3 +38,6 @@ hen bekend is. Speciaal voor deze gebruikers biedt Limesco de mogelijkheid om
 internet toegankelijk is. Op deze manier is niet Limesco, maar de gebruiker in
 de positie is om voor zijn eigen gegevens de balans te bepalen tussen
 gebruiksgemak en veiligheid.
+
+  </div>
+</div>

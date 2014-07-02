@@ -4,7 +4,14 @@ title: Ootb, DIY of DIT
 section: dienst
 permalink: "dienst/index.html"
 ---
-### Abonnementsvormen
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Abonnementsvormen
+  </div>
+  <div class="panel-body">
 
 Naast ons [standaard abonnement](/dienst/out-of-the-box.html), waarbij bellen,
 sms-en en mobiel internet gewoon werken, hebben we een speciale
@@ -19,7 +26,14 @@ controle over je eigen gesprekken. Hierdoor ben je minder afhankelijk van een
 andere partij. Dit is handig als je, bijvoorbeeld, zelf een voicemaildienst wil
 opzetten.
 
-### Wat kost dat dan?
+</div>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Wat kost dat dan?
+  </div>
+  <div class="panel-body">
 
 Helaas zijn we niet de goedkoopste aanbieder van telefonie. Als je goed kijkt op
 de [Tarieven](/dienst/tarieven.html)-pagina, zie je dat er bij de
@@ -43,3 +57,6 @@ Bij <em>Do-It-Yourself</em> is het mogelijk om een gesprek op te zetten naar de
 mobiele telefoon, vervolgens de PBX uit te laten bellen naar een ander nummer en
 deze twee gesprekken met elkaar te verbinden. Vanuit Limesco gezien (telco A) is
 het gesprek naar de mobiele telefoon precies zoals in bovenstaand voorbeeld.
+
+</div>
+</div>

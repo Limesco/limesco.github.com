@@ -5,6 +5,14 @@ category: main
 section: over
 permalink: "over/in-de-media.html"
 ---
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# In de media
+  </div>
+  <div class="panel-body">
 <a name="#2014"></a>
 <h2><a href="#2014">2014</a></h2>
 <ul>
@@ -101,5 +109,6 @@ permalink: "over/in-de-media.html"
   </a>
  </li>
 </ul>
-
+  </div>
+</div>
 

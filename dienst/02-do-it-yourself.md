@@ -4,6 +4,15 @@ title: Do-It-Yourself
 section: dienst
 permalink: "dienst/do-it-yourself.html"
 ---
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Do-It-Yourself
+  </div>
+  <div class="panel-body">
+
 Wanneer je kiest voor Do-it-Yourself van Limesco, ontvang je van ons een
 SIM-kaart die net iets anders werkt dan een reguliere SIM-kaart. Om van je
 SIM-kaart gebruik te kunnen maken, moet je een SIP-server hebben ingericht en
@@ -22,3 +31,6 @@ belt dat aan je SIM-kaart is gekoppeld, zullen wij dat afleveren op jouw
 SIP-server. Op deze manier ben je zelf verantwoordelijk voor het routeren van
 het gesprek naar je mobiele toestel. Je kunt ook kiezen voor een
 alternatieve afhandeling van het gesprek.
+
+  </div>
+</div>

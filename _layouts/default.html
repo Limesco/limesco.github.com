@@ -151,14 +151,7 @@
     {% else %}
     <div class="container">
       <div class="col-xs-12 col-md-10 col-md-offset-1">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            {{ page.title }}
-          </div>
-          <div class="panel-body">
-            {{ page.content | markdownify }}
-          </div>
-        </div>
+        {{ page.content | markdownify }}
       </div>
     </div>
     {% endif %}

@@ -66,7 +66,7 @@ title: hoofdpagina
             <img src="img/bitcoin.png" />
           </div>
           <p>
-          Als een van de eerste telecomoperators in de Benelux accepteren
+          Als een van de eerste telecomoperators in de wereld accepteren
           wij Bitcoin als betaalmiddel! Uiteraard kan je ook gewooon betalen
           via <em>automatisch incasso</em> en <em>iDeal</em>.
           </p>

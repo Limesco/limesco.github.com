@@ -3,6 +3,13 @@ layout: default
 title: Tarieven
 section: tarieven
 ---
+{::options parse_block_html="true" /}
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Tarieven
+  </div>
+  <div class="panel-body">
 
 Onderstaande tabel bevat de tarieven die Limesco sinds 24 maart 2014 aan
 eindgebruikers rekent. Alle prijzen in onderstaande tabel zijn in euro's en
@@ -72,7 +79,14 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
   <td>per MB</td></tr>
 </table>
 
-<h2>Europese unie</h2>
+</div>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Europese Unie
+  </div>
+  <div class="panel-body">
 
 Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn de volgende 28 landen: <em>België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Nederland, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk, Zweden en Kroatië.</em> Alle prijzen in onderstaande tabel zijn in euro's en inclusief btw. Items worden afgerond volgens de volgende regels:
 
@@ -126,7 +140,16 @@ Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn 
 
 </table>
 
-<h2>Wereld</h2>
+</div>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Wereld
+  </div>
+  <div class="panel-body">
 
 Tarieven voor bellen, SMS en data buiten de EU zijn vanuit onze leverancier vaak nog ondoorzichtig en niet goedkoop. We werken nog aan goede en transparante tarieven om dit aan te bieden. Mocht je informatie willen hebben over een specifiek land, mail ons dan vooral op <a href="mailto:support@limesco.nl">support@limesco.nl</a> en we helpen je verder.
 
+</div>
+</div>

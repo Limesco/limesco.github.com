@@ -4,6 +4,15 @@ title: Do-It-Together
 section: dienst
 permalink: "dienst/do-it-together.html"
 ---
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+# Do-It-Together
+  </div>
+  <div class="panel-body">
+
 Limesco biedt naast een 'gewoon' telefoonabonnement (Limesco Out-of-the-Box) het
 technisch vooruitstrevende Do-It-Yourself-abonnement. Hiermee kan je als
 consument al je belverkeer langs je eigen server sturen en ermee doen wat je
@@ -33,3 +42,5 @@ mee zal brengen. Wil je op de hoogte blijven over de ontwikkelingen? Schrijf
 je dan in voor de nieuwsbrief door een mailtje te sturen naar
 support@limesco.nl, of houd deze pagina in de gaten!
 
+  </div>
+</div>
