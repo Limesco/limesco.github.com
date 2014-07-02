@@ -1,186 +1,152 @@
 <!DOCTYPE html>
 <html lang="nl">
+  <head>
+    <title>Limesco :: {{ page.title }} :: mobiele telefonie - open, eerlijk, innovatief</title>
 
-<head>
-<title>Limesco :: {{ page.title }} :: mobiele telefonie - open, eerlijk, innovatief</title>
+    <meta name="description" content="Limesco is de jonge telecomoperator die het
+    anders doet. Volgens de idealen open, eerlijk en innovatief bieden wij
+    bundelloze en vooruitstrevende diensten.">
+    <meta name="keywords" content="PBX, SIM, simkaart, asterisk, telefooncentrale,
+    telefonie, telecom, voip, bundelloos, do-it-yourself, do-it-together">
 
-<meta name="description" content="Limesco is de jonge telecomoperator die het
-anders doet. Volgens de idealen open, eerlijk en innovatief bieden wij
-bundelloze en vooruitstrevende diensten.">
-<meta name="keywords" content="PBX, SIM, simkaart, asterisk, telefooncentrale,
-telefonie, telecom, voip, bundelloos, do-it-yourself, do-it-together">
+    <!-- Bootstrap -->
+    <link href="bs/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom style -->
+    <link href="stijl.css" rel="stylesheet">
 
-<!-- Bootstrap - twitter.github.com/bootstrap -->
-<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
-<link href="/favicon.ico" rel="shortcut icon" />
-<meta charset="UTF-8">
-
-<style type="text/css">
-/* Dropdown on hover */
-ul.nav li.dropdown:hover > ul.dropdown-menu {
-    display: block;
-}
-.dropdown-menu {
-    margin: 0;
-}
-</style>
-
-</head>
-
-<body>
-<div class="container">
-<div class="navbar navbar-fixed-top">
-  <div class="navbar-inner">
-    <div class="container">
-      <a class="brand" href="/"><img src="/logo.png" style="height: 20px; padding: 0;" /> Limesco</a>
-        <ul class="nav nav-tabs">
-        <li class="dropdown">
-          <a href="#">Dienst</a>
-          <ul class="dropdown-menu">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- navbar -->
+    <div class="navbar navbar-default" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hoofdmenu">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="#"><img src="./logo.png" class="visible-xs logo-xs" /></a>
+          <a class="navbar-brand" href="#">Limesco</a>
+        </div>
+        <div class="navbar-collapse collapse hidden-xs">
+          <ul class="nav navbar-nav nav-tabs">
+            <li class="dropdown"><a href="#">Dienst <span class="caret"></span></a>
+              <ul class="dropdown-menu">
 {% assign sorted_pages = site.pages | sort:"path" %}
 {% for page in sorted_pages %}
 {% if page.section == 'dienst' %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#">Technisch</a>
-          <ul class="dropdown-menu">
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#">Tarieven <span class="caret"></span></a>
+              <ul class="dropdown-menu">
 {% for page in sorted_pages %}
-{% if page.section == 'technisch' %}
+{% if page.section == 'tarieven' %}
+                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+              </ul>
+            </li>
+
+            <li class="dropdown"><a href="#">Contact <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+{% for page in sorted_pages %}
+{% if page.section == 'contact' %}
             <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#">Over</a>
-          <ul class="dropdown-menu">
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#">Over ons <span class="caret"></span></a>
+              <ul class="dropdown-menu">
 {% for page in sorted_pages %}
 {% if page.section == 'over' %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+               <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
+              </ul>
+            </li>
           </ul>
-        </li>
-        </ul>
-    </div>
-  </div>
-</div>
-
-{% assign num_pages = 0 %}
-{% for p in site.pages %}
-{% if page.section == p.section %}
-{%   capture num_pages %}{{num_pages | plus: 1}}{% endcapture %}
+        </div>
+        <div class="navbar-collapse collapse" id="hoofdmenu">
+          <div class="hidden-sm hidden-md hidden-lg">
+            <ul class="nav nav-pills">
+              <li><strong>Dienst</strong>
+                <ul class="nav nav-pills">
+{% for page in sorted_pages %}
+{% if page.section == 'dienst' %}
+                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-
-  <div class="row-fluid" style="padding-top: 50px;">
-{% if num_pages != '0' and num_pages != '1' %}
-    <div class="span2">
-      <!--Sidebar content-->
-      <ul class="nav nav-tabs nav-stacked">
-{% if page.section == "wiezijnwij" %}
-        <li><a href="/over/contact.html">Contactgegevens</a></li>
-{% endif %}
-{% for p in sorted_pages %}
-{% if page.section == p.section %}
-{% unless p.title == "Er is iets stuk" %}
-{% if page.title == p.title %}
-        <li class="active"><a href="{{ p.url }}">{{ p.title }}</a></li>
-{% else %}
-        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-{% endif %}
-{% endunless %}
+                </ul>
+              </li>
+            </ul>
+            <ul class="nav nav-pills">
+              <li><strong>Tarieven</strong>
+                <ul class="nav nav-pills">
+{% for page in sorted_pages %}
+{% if page.section == 'tarieven' %}
+                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-      </ul>
-    </div>
-    <div class="span10">
-{% else %}
-    <div class="span12">
-{% endif %}
-      <h1>{{ page.title }}</h1>
-      {{ content }}
-    </div>
-  </div>
-</div>
-
-<div class="row-fluid">
-  <div class="span12">
-    <!-- somewhat more space before the footer starts -->
-  </div>
-</div>
-
-<footer class="footer">
-  <div class="container well well-small">
-    <div class="row-fluid">
-      <div class="span3">
-        <ul class="nav nav-pills nav-stacked">
-          <li><strong>Limesco</strong></li>
-          <li><a href="/index.html">Welkom</a></li>
-          <li><a href="/over/index.html">Over Limesco</a></li>
-        </ul>
-
-      </div>
-
-      <div class="span3">
-        <ul class="nav nav-pills nav-stacked">
-          <li><strong>Dienst</strong></li>
-{% for p in sorted_pages %}
-{% if p.section == 'dienst' %}
-          <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="nav nav-pills">
+              <li><strong>Contact</strong>
+                <ul class="nav nav-pills">
+{% for page in sorted_pages %}
+{% if page.section == 'contact' %}
+                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-        </ul>
-      </div>
-
-      <div class="span3">
-        <ul class="nav nav-pills nav-stacked">
-          <li><strong>Technisch</strong></li>
-{% for p in sorted_pages %}
-{% if p.section == 'technisch' %}
-          <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="nav nav-pills">
+              <li><strong>Over ons</strong>
+                <ul class="nav nav-pills">
+{% for page in sorted_pages %}
+{% if page.section == 'over' %}
+                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-        </ul>
-
-      </div>
-
-      <div class="span3">
-        <ul class="nav nav-pills nav-stacked">
-          <li><strong>Over</strong></li>
-{% for p in sorted_pages %}
-{% if p.section == 'over' %}
-          <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-{% endif %}
-{% endfor %}
-        </ul>
-
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</footer>
+    <!-- /navbar -->
 
-<!-- Bootstrap -->
-<script src="http://code.jquery.com/jquery-latest.js"></script>
-<script src="/bootstrap/js/bootstrap.min.js"></script>
+    {{ content }}
 
-<!-- Piwik -->
-<script type="text/javascript">
-var pkBaseURL = "https://private.sjorsgielen.nl/piwik/";
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="https://private.sjorsgielen.nl/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
+    <!-- Bootstrap -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="bs/js/bootstrap.min.js"></script>
 
-</body>
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var pkBaseURL = "https://private.sjorsgielen.nl/piwik/";
+    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script type="text/javascript">
+      try {
+        var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+        piwikTracker.trackPageView();
+        piwikTracker.enableLinkTracking();
+      } catch( err ) {}
+    </script><noscript><p><img src="https://private.sjorsgielen.nl/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+    <!-- End Piwik Tracking Code -->
+
+  </body>
 
 </html>
