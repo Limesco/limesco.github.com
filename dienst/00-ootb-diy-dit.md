@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Algemene informatie
+title: Ootb, DIY of DIT
 section: dienst
+permalink: "index.html"
 ---
 ### Abonnementsvormen
 

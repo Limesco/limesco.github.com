@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Out-of-the-Box
+title: Out-of-the-box
 section: dienst
+permalink: "out-of-the-box.html"
 ---
 Wanneer je bij Limesco kiest voor Out-of-the-Box - wat wij afkorten tot OotB -
 zal je een SIM-kaart ontvangen die te gebruiken is zoals een SIM-kaart van een
