@@ -1,0 +1,121 @@
+/* Colour scheme */
+/* http://paletton.com/#uid=52O0u0kuiiUvNtru4nlwudexs7O */
+.navbar {
+  border: 0;
+  border-bottom: 1px solid #045500;
+  background-color: white;
+}
+
+body .navbar {
+  margin-bottom: 0px;
+}
+
+.navbar-header .navbar-brand {
+  color: #0c7a07;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #045500;
+}
+
+.nav-tabs {
+  border: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+}
+
+.nav-tabs > li > a:hover {
+  border-color: #045500;
+}
+
+.dropdown-menu {
+  border-color: #045500;
+  border-top: 0;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: white;
+  color: #0c7a07;
+}
+
+.page-header.visible-xs {
+  border: 0;
+  background-color: rgba(86, 116, 151,0.8);
+}
+.page-header.visible-xs h1  {
+  padding: 10px 0px 0px 10px;
+  color: black;
+}
+.page-header.visible-xs h3  {
+  padding: 0px 0px 0px 10px;
+  color: black;
+}
+
+.jumbotron {
+  background-color: #567497;
+  background-image: url('img/zendmast.png');
+  background-position: right top;
+  background-repeat: no-repeat
+}
+
+.jumbotron h1 {
+  color: #002624;
+}
+
+.jumbotron h3 {
+  color: #002624;
+  margin-top: 10px;
+}
+
+.btn-success {
+  background-color: #07716D;
+  border-color: #273a00;
+}
+.btn-success:hover {
+  background-color: #79ae0a;
+  border-color: #436300;
+}
+
+.panel-primary {
+  border-color: #045500;
+}
+.panel-primary > .panel-heading {
+  background-color: #045500;
+  border-color: #045500;
+}
+.panel-success {
+  border-color: #0c7a07;
+}
+.panel-success > .panel-heading {
+  background-color: #0c7a07;
+  border-color: #0c7a07;
+  color: #fff;
+}
+
+.panel-img-left img {
+  float: left;
+  width: 80px;
+  margin: 10px 10px 10px 0px;
+}
+
+.logo-xs {
+  float: left;
+  padding: 5px;
+  height: 50px;
+}
+.logo-nonxs {
+  float: left;
+  padding-right: 20px;
+  margin-top: -10px;
+  height: 125px;
+}
+
+.row.pull-up {
+  margin-top: -100px;
+}
+/* On hover show menu */
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
