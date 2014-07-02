@@ -2,7 +2,7 @@
 layout: default
 title: Do-It-Yourself
 section: dienst
-permalink: "do-it-yourself.html"
+permalink: "dienst/do-it-yourself.html"
 ---
 Wanneer je kiest voor Do-it-Yourself van Limesco, ontvang je van ons een
 SIM-kaart die net iets anders werkt dan een reguliere SIM-kaart. Om van je

@@ -3,7 +3,7 @@ layout: default
 title: Idealen
 category: main
 section: over
-permalink: "idealen.html"
+permalink: "over/idealen.html"
 ---
 Als aanbieder van mobiele diensten kan Limesco inzicht krijgen in gevoelige
 informatie van en over gebruikers. We vinden het belangrijk dat we daar

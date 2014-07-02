@@ -3,6 +3,7 @@ layout: default
 title: In de media
 category: main
 section: over
+permalink: "over/in-de-media.html"
 ---
 <a name="#2014"></a>
 <h2><a href="#2014">2014</a></h2>

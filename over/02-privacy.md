@@ -3,6 +3,7 @@ layout: default
 title: Privacy
 categorie: main
 section: over
+permalink: "over/privacy.html"
 ---
 Bij Limesco vinden we privacy belangrijk. Privacy is vaak een afweging tussen
 gebruiksgemak en veiligheid. Deze afweging maakt elk bedrijf, soms onbewust,

@@ -2,7 +2,7 @@
 layout: default
 title: Support
 section: contact
-permalink: "support.html"
+permalink: "contact/support.html"
 ---
 <h3>Support</h3>
 <p>

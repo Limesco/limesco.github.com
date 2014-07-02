@@ -2,7 +2,7 @@
 layout: default
 title: Do-It-Together
 section: dienst
-permalink: "do-it-together.html"
+permalink: "dienst/do-it-together.html"
 ---
 Limesco biedt naast een 'gewoon' telefoonabonnement (Limesco Out-of-the-Box) het
 technisch vooruitstrevende Do-It-Yourself-abonnement. Hiermee kan je als

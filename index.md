@@ -1,23 +1,7 @@
 ---
 layout: default
+title: hoofdpagina
 ---
-<!-- jumbotron -->
-<div class="jumbotron">
-  <div class="container">
-    <div class="page-header hidden-xs">
-      <img src="logo-groot-trans.png" class="logo-nonxs" />
-      <h1>Limesco</h1>
-      <h3>Open, Eerlijk, Innovatief</h3>
-    </div>
-    <div class="page-header visible-xs">
-      <h1>Limesco</h1>
-      <h3>Open, Eerlijk, Innovatief</h3>
-    </div>
-    <p><a class="btn btn-success btn-lg" role="button">Sluit je nu aan!</a></p>
-  </div>
-</div>
-<!-- /jumbotron -->
-
 <!-- content -->
 <div class="container">
 <div class="container-fluid">

@@ -3,6 +3,7 @@ layout: default
 title: Wie zijn wij?
 category: main
 section: over
+permalink: "over/wie-zijn-wij.html"
 ---
 
 <div style="clear: left;">

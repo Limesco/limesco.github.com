@@ -2,7 +2,7 @@
 layout: default
 title: Ootb, DIY of DIT
 section: dienst
-permalink: "index.html"
+permalink: "dienst/index.html"
 ---
 ### Abonnementsvormen
 

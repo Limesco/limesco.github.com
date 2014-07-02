@@ -2,7 +2,7 @@
 layout: default
 title: Contactgegevens
 section: contact
-permalink: "index.html"
+permalink: "contact/index.html"
 ---
 
 <h3>Post</h3>
