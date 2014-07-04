@@ -36,11 +36,13 @@ title: hoofdpagina
           knop om je aan te sluiten bij Limesco!
           </p>
           <center>
-            <p><a class="btn btn-success btn-lg" role="button">Sluit je nu aan!</a></p>
+            <p><a class="btn btn-success btn-lg" role="button" href="https://inschrijven.limesco.nl/"
+                target="_blank">Sluit je nu aan!</a></p>
           </center>
           <p>
           Wil je later aan Limesco <strong>herinnerd</strong> worden, bijvoorbeeld omdat je
-          huidige contract nog loopt? <a href="https://inschrijven.limesco.nl/herinnering.php">Klik dan hier!</a>
+          huidige contract nog loopt? <a href="https://inschrijven.limesco.nl/herinnering.php"
+                target="_blank">Klik dan hier!</a>
           </p>
           <center>
             <a href="https://facebook.com/Limesco" target="_blank" alt="Limesco op Facebook">
