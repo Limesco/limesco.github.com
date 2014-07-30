@@ -13,10 +13,7 @@ section: tarieven
 
 Onderstaande tabel bevat de tarieven die Limesco sinds 24 maart 2014 aan
 eindgebruikers rekent. Alle prijzen in onderstaande tabel zijn in euro's en
-inclusief btw. Items worden afgerond volgens de volgende regels:
-
-* Alle gesprekken worden afgerond per seconde
-* Data wordt afgerond per 100 KB
+inclusief btw.
 
 Ieder abonnement bij Limesco is maandelijks opzegbaar.
 
@@ -88,10 +85,7 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
   </div>
   <div class="panel-body">
 
-Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn de volgende 28 landen: <em>België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Nederland, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk, Zweden en Kroatië.</em> Alle prijzen in onderstaande tabel zijn in euro's en inclusief btw. Items worden afgerond volgens de volgende regels:
-
-* Alle gesprekken worden afgerond per seconde
-* Data binnen de EU wordt afgerond per 1 KB
+Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn de volgende 28 landen: <em>België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Nederland, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk, Zweden en Kroatië.</em> Alle prijzen in onderstaande tabel zijn in euro's en inclusief btw en gelden per 1 juli 2014.
 
 <table class="table table-condensed">
 <tr><td colspan='2'><em>Kosten</em></td>
@@ -101,12 +95,12 @@ Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn 
 
 <tr><td>Bellen</td>
   <td><em>Afgerond op seconden</em></td>
-  <td style='text-align:right;'>0,29</td>
+  <td style='text-align:right;'>0,23</td>
   <td>per minuut</td>
 </tr>
 <tr><td>SMS sturen</td>
   <td><em></em></td>
-  <td style='text-align:right;'>0,09</td>
+  <td style='text-align:right;'>0,07</td>
   <td>per stuk</td>
 </tr>
 
@@ -114,17 +108,17 @@ Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn 
 
 <tr><td>Bellen</td>
   <td><em>Afgerond op seconden</em></td>
-  <td style='text-align:right;'>0,29</td>
+  <td style='text-align:right;'>0,23</td>
   <td>per minuut</td>
 </tr>
 <tr><td>Gebeld worden</td>
   <td><em>Afgerond op seconden</em></td>
-  <td style='text-align:right;'>0,08</td>
+  <td style='text-align:right;'>0,06</td>
   <td>per minuut</td>
 </tr>
 <tr><td>SMS sturen</td>
   <td><em></em></td>
-  <td style='text-align:right;'>0,09</td>
+  <td style='text-align:right;'>0,07</td>
   <td>per stuk</td>
 </tr>
 <tr><td>SMS ontvangen</td>
@@ -134,7 +128,7 @@ Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn 
 </tr>
 <tr><td>Data verbruiken</td>
   <td><em>Afgerond op KB's</em></td>
-  <td style='text-align:right;'>0,54</td>
+  <td style='text-align:right;'>0,24</td>
   <td>per MB</td>
 </tr>
 
