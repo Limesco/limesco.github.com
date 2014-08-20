@@ -37,10 +37,20 @@ permalink: "over/wie-zijn-wij.html"
 
 <div class="panel panel-primary">
   <div class="panel-heading">
+    <h1>Medewerker</h1>
+  </div>
+  <div class="panel-body">
+    <div style="float: right; margin-right: 10px"><img src="../img/PetervanderVeeken.png" style="width: 180px; height: 241px;"></div>
+    <p><strong>Peter van der Veeken</strong> volgde aan de Hogeschool Arnhem Nijmegen de studie marketingcommunicatie en heeft een passie voor evenementen organiseren, groepen enthousiasmeren en processen optimaliseren.</p><p>Met zijn passie voor techniek voelt Peter zich thuis bij Limesco en probeert hij de vele mogelijkheden die telecom biedt begrijpelijk te communiceren naar het publiek. Hij wil graag laten zien dat telecom niet ondoorzichtig en star hoeft te zijn, maar juist veel (technische) mogelijkheden biedt. - <a href="http://petervdveeken.nl">http://petervdveeken.nl</a></p>
+  </div>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
     <h1>Initiatiefnemer</h1>
   </div>
   <div class="panel-body">
-    <div style="float: right; margin-right: 10px"><img src="../img/MarkVanCuijk.png" style="width: 180px; height: 237px;"></div>
+    <div style="float: left; margin-right: 10px"><img src="../img/MarkVanCuijk.png" style="width: 180px; height: 237px;"></div>
     <p><strong>Mark van Cuijk</strong> is afgestudeerd in informatiebeveiliging,
     heeft ruim vier jaar werkervaring als ontwikkelaar, is betrokken geweest bij
     diverse open source projecten en heeft enige tijd als freelancer diverse
