@@ -41,7 +41,7 @@ permalink: "over/wie-zijn-wij.html"
   </div>
   <div class="panel-body">
     <div style="float: right; margin-right: 10px"><img src="../img/PetervanderVeeken.png" style="width: 180px; height: 241px;"></div>
-    <p><strong>Peter van der Veeken</strong> volgde aan de Hogeschool Arnhem Nijmegen de studie marketingcommunicatie en heeft een passie voor evenementen organiseren, groepen enthousiasmeren en processen optimaliseren.</p><p>Met zijn passie voor techniek voelt Peter zich thuis bij Limesco en probeert hij de vele mogelijkheden die telecom biedt begrijpelijk te communiceren naar het publiek. Hij wil graag laten zien dat telecom niet ondoorzichtig en star hoeft te zijn, maar juist veel (technische) mogelijkheden biedt. - <a href="http://petervdveeken.nl">http://petervdveeken.nl</a></p>
+    <p><strong>Peter van der Veeken</strong> volgde aan de Hogeschool Arnhem Nijmegen de studie marketingcommunicatie en heeft een passie voor evenementen organiseren, groepen enthousiasmeren en processen optimaliseren.</p><p>Met zijn passie voor techniek voelt Peter zich thuis bij Limesco en probeert hij de vele mogelijkheden die telecom biedt begrijpelijk te communiceren naar het publiek. Hij wil graag laten zien dat telecom niet ondoorzichtig en star hoeft te zijn, maar juist veel (technische) mogelijkheden biedt. — <a href="http://petervdveeken.nl">http://petervdveeken.nl</a></p>
   </div>
 </div>
 
