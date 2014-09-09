@@ -32,7 +32,7 @@ Toernooiveld 100
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h1>KvK / BTW / Rekeningnummer / OPTA</h1>
+    <h1>KvK / BTW / Rekeningnummer / ACM</h1>
   </div>
   <div class="panel-body">
   <ul>
@@ -44,7 +44,7 @@ Toernooiveld 100
       <li>IBAN: <tt>NL24RABO0169207587</tt></li>
       <li>Tenaamstelling: Limesco B.V.</li>
     </ul></li>
-    <li>OPTA-registratie: <tt>942450</tt></li>
+    <li>ACM-registratie: <tt>942450</tt></li>
   </ul>
   </div>
 </div>
