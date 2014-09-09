@@ -23,10 +23,10 @@ permalink: "contact/index.html"
     <li><tt>518BFC29</tt> (Gerdriaan Mulder)</li>
     <li><tt>FB149C10</tt> (Peter van der Veeken)</li>
   </ul>
-  <p>Het postadres van Limesco is:</p>
+  <p>Het bezoek- en postadres van Limesco is:</p>
   <pre>Limesco B.V.
-Sophiaweg 34
-6523 NJ Nijmegen</pre>
+Toernooiveld 100
+6525 EC Nijmegen</pre>
   </div>
 </div>
 
