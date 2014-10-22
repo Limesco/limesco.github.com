@@ -21,7 +21,7 @@ permalink: "contact/index.html"
   <ul>
     <li><tt>34AA433E</tt> &amp; <tt>59A66010</tt> (Sjors Gielen)</li>
     <li><tt>518BFC29</tt> (Gerdriaan Mulder)</li>
-    <li><tt>FB149C10</tt> (Peter van der Veeken)</li>
+    <li><tt>B81D5DA2</tt> (Peter van der Veeken)</li>
   </ul>
   <p>Het bezoek- en postadres van Limesco is:</p>
   <pre>Limesco B.V.
