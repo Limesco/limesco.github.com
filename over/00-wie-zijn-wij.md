@@ -18,8 +18,8 @@ permalink: "over/wie-zijn-wij.html"
     de voortgang strak in de gaten hield.</p>
     <p>Sjors is betrokken bij Limesco omdat hij vindt dat de huidige providers te
     gesloten zijn, in plaats van input te halen uit de rijke bron van ervaringen en
-    mogelijkheden in hun klantenbestand.
-    — <a href="http://sjorsgielen.nl">http://sjorsgielen.nl</a></p>
+    mogelijkheden in hun klantenbestand.</p>
+    <p>Sjors is mede-initiatiefnemer en sinds mei 2012 algemeen directeur. — <a href="http://sjorsgielen.nl">http://sjorsgielen.nl</a></p>
   </div>
   <div class="panel-body">
     <div style="float: left; margin-right: 10px"><img src="../img/GerdriaanMulder.jpg" style="width: 180px; height:248px;"></div>
@@ -30,20 +30,16 @@ permalink: "over/wie-zijn-wij.html"
     netwerken en het Linux-platform.</p>
     <p>Gerdriaan voelt zich bij Limesco aangetrokken tot de technische zaken, zoals
     het koppelen van digitale telefooncentrales en het toegankelijk maken van
-    gegevens die verwerkt worden bij gebruik van mobiele telefoons.
-    — <a href="https://mrngm.com">https://mrngm.com</a></p>
-  </div>
-</div>
-
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h1>Medewerker</h1>
+    gegevens die verwerkt worden bij gebruik van mobiele telefoons.</p>
+    <p>Gerdriaan is mede-initiatiefnemer en sinds mei 2012 algemeen directeur. — <a href="https://mrngm.com">https://mrngm.com</a></p>
   </div>
   <div class="panel-body">
     <div style="float: right; margin-right: 10px"><img src="../img/PetervanderVeeken.png" style="width: 180px; height: 241px;"></div>
-    <p><strong>Peter van der Veeken</strong> volgde aan de Hogeschool Arnhem Nijmegen de studie marketingcommunicatie en heeft een passie voor evenementen organiseren, groepen enthousiasmeren en processen optimaliseren.</p><p>Met zijn passie voor techniek voelt Peter zich thuis bij Limesco en probeert hij de vele mogelijkheden die telecom biedt begrijpelijk te communiceren naar het publiek. Hij wil graag laten zien dat telecom niet ondoorzichtig en star hoeft te zijn, maar juist veel (technische) mogelijkheden biedt. — <a href="http://petervdveeken.nl">http://petervdveeken.nl</a></p>
+    <p><strong>Peter van der Veeken</strong> volgde aan de Hogeschool Arnhem Nijmegen de studie marketingcommunicatie en heeft een passie voor evenementen organiseren, groepen enthousiasmeren en processen optimaliseren.</p><p>Met zijn passie voor techniek voelt Peter zich thuis bij Limesco en probeert hij de vele mogelijkheden die telecom biedt begrijpelijk te communiceren naar het publiek. Hij wil graag laten zien dat telecom niet ondoorzichtig en star hoeft te zijn, maar juist veel (technische) mogelijkheden biedt.</p>
+<p>Peter is sinds november 2014 algemeen directeur. — <a href="http://petervdveeken.nl">http://petervdveeken.nl</a></p>
   </div>
 </div>
+
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -58,8 +54,8 @@ permalink: "over/wie-zijn-wij.html"
     <p>Al jaren ergert Mark zich aan het gebrek van transparantie in de
     telecommarkt. Na een informeel gesprekje met de andere oprichters kwam het idee
     om dit eens verder uit te zoeken, wat uiteindelijk resulteerde in de plannen om
-    hier verandering in te gaan aanbrengen. Mark is van 2012 tot en met 2013
-    algemeen directeur geweest.
+    hier verandering in te gaan aanbrengen.</p><p>Mark was van mei 2012 tot en met oktober 2013
+    algemeen directeur.
     — <a href="http://phedny.net">http://phedny.net</a></p>
   </div>
 </div>
