@@ -146,7 +146,8 @@ Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn 
   </div>
   <div class="panel-body">
 
-Tarieven voor bellen, SMS en data buiten de EU zijn vanuit onze leverancier vaak nog ondoorzichtig en niet goedkoop. We werken nog aan goede en transparante tarieven om dit aan te bieden. Mocht je informatie willen hebben over een specifiek land, mail ons dan vooral op <a href="mailto:support@limesco.nl">support@limesco.nl</a> en we helpen je verder.
+Een overzicht van alle tarieven voor bellen, data en SMS buiten de EU, vind je in onderstaande pdf. Let op: wees uiterst voorzichtig met dataverbruik buiten de EU. Deze tarieven kunnen zeer hoog zijn. Sommige data-tarieven zijn aan fluctuatie onderhevig, waardoor ze niet standaard vermeld staan in het overzicht. Informeer jezelf altijd vooraf door te mailen naar <a href="mailto:support@limesco.nl">support@limesco.nl</a>.
+<ul><li><a href="wereldtarieven.pdf">Wereldtarieven</a></li></ul>
 
 </div>
 </div>
