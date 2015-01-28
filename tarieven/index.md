@@ -29,9 +29,9 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
   <td><em>Maandelijks</em></td>
   <td style='text-align:right;'>3,50<sup>00</sup></td><td></td></tr>
 
-<tr><td><a href="/tarieven/liquid-pricing.html">Liquid Pricing</a></td>
+<tr><td><a href="/tarieven/vrije-bijdrage.html">Vrije bijdrage</a></td>
   <td><em>Maandelijks</em></td>
-  <td style='text-align:right;'><a href="/tarieven/liquid-pricing.html">Maximaal</a> 3,75<sup>00</sup></td><td></td></tr>
+  <td style='text-align:right;'>0 - &infin;</td><td></td></tr>
 
 <tr><td colspan='4'><em>Verbruikskosten <a href="/dienst/out-of-the-box.html">Out-of-the-Box</a></em></td></tr>
 
