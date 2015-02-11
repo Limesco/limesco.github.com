@@ -7,23 +7,17 @@ title: hoofdpagina
 <div class="container-fluid">
   <!-- row1 -->
   <div class="row">
-    <div class="col-xs-12 col-sm-8 col-md-4">
+    <div class="col-xs-12 col-sm-8 col-md-8">
       <div class="panel panel-primary">
         <div class="panel-heading">
-          <h1>Bundelloos</h1>
+          <h1>Wat is Limesco?</h1>
         </div>
         <div class="panel-body">
-          <div class="panel-img-left">
-            <img src="img/wallet.png" />
-            <!-- icon by http://www.rockettheme.com CC-BY-ND -->
-          </div>
-          <p>
-          Bij ons <em>geen</em> bundels! Je betaalt voor wat je verbruikt.
-          Bundels laten je vaak teveel betalen; zowel binnen als buiten je
-          bundel. Limesco geeft je inzage in je &eacute;chte verbruik.
-          </p>
-        </div>
+          <p>Limesco is <strong>mobiele telefonie</strong>, je kan dus <strong>bellen sms'en en internetten</strong> op je mobiel, maar dan met een aantal voordelen.</p>
+		  <p>Limesco is <strong>open, eerlijk en innovatief</strong>. We bestaan nu 2 jaar en stukje bij beetje proberen we de telecomwereld te verbeteren.</p>
+		  <p>Lees meer <a href="over/wie-zijn-wij.html">over ons</a>, over onze <a href="over/idealen.html">idealen</a>, ontvang in de toekomst een <a href="https://inschrijven.limesco.nl/herinnering.php">herinnering</a>, of <a href="https://inschrijven.limesco.nl/">sluit je nu aan</a>!</p>
       </div>
+    </div>
     </div>
     <div class="col-sm-4 col-md-4 pull-right">
       <div class="panel panel-success fill">
@@ -58,6 +52,31 @@ title: hoofdpagina
         </div>
       </div>
     </div>
+    </div>
+  
+    
+  
+  
+  <!-- row2 -->
+  <div class="row pull-up">
+    <div class="col-xs-12 col-sm-8 col-md-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h1>Bundelloos</h1>
+        </div>
+        <div class="panel-body">
+          <div class="panel-img-left">
+            <img src="img/wallet.png" />
+            <!-- icon by http://www.rockettheme.com CC-BY-ND -->
+          </div>
+          <p>
+          Bij ons <em>geen</em> bundels! Je betaalt voor wat je verbruikt.
+          Bundels laten je vaak teveel betalen; zowel binnen als buiten je
+          bundel. Limesco geeft je inzage in je &eacute;chte verbruik.
+          </p>
+        </div>
+      </div>
+    </div>
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
@@ -76,10 +95,10 @@ title: hoofdpagina
       </div>
     </div>
   </div>
-  <!-- /row1 -->
+  <!-- /row2 -->
 
-  <!-- row2 -->
-  <div class="row pull-up">
+  <!-- row3 -->
+  <div class="row">
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
         <div class="panel-heading">
@@ -118,9 +137,9 @@ title: hoofdpagina
       </div>
     </div>
   </div>
-  <!-- /row2 -->
+  <!-- /row3 -->
 
-  <!-- row3 -->
+  <!-- row4 -->
   <div class="row">
     <div class="col-xs-12 col-sm-8 col-md-4">
       <div class="panel panel-primary">
@@ -160,7 +179,7 @@ title: hoofdpagina
       </div>
     </div>
   </div>
-  <!-- /row3 -->
+  <!-- /row4 -->
 
 </div>
 </div>
