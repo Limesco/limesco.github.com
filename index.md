@@ -14,7 +14,7 @@ title: hoofdpagina
         </div>
         <div class="panel-body">
           <p>Limesco is <strong>mobiele telefonie</strong>, je kan dus <strong>bellen sms'en en internetten</strong> op je mobiel, maar dan met een aantal voordelen.</p>
-		  <p>Limesco is <strong>open, eerlijk en innovatief</strong>. We bestaan nu 2 jaar en stukje bij beetje proberen we de telecomwereld te verbeteren.</p>
+		  <p>Limesco is <strong>open, eerlijk en innovatief</strong>. We bestaan nu 3 jaar en stukje bij beetje proberen we de telecomwereld te verbeteren.</p>
 		  <p>Lees meer <a href="over/wie-zijn-wij.html">over ons</a>, over onze <a href="over/idealen.html">idealen</a>, ontvang in de toekomst een <a href="https://inschrijven.limesco.nl/herinnering.php">herinnering</a>, of <a href="https://inschrijven.limesco.nl/">sluit je nu aan</a>!</p>
       </div>
     </div>
