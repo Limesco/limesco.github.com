@@ -23,7 +23,7 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
 
 <tr><td>Activeren</td>
   <td><em>Eenmalig</em></td>
-  <td style='text-align:right;'>42,00<sup>00</sup></td><td></td></tr>
+  <td style='text-align:right;'>12,50<sup>00</sup></td><td></td></tr>
 
 <tr><td>SIM-kaart</td>
   <td><em>Maandelijks</em></td>
@@ -60,7 +60,7 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
 
 <tr><td>SMS versturen</td>
   <td></td>
-  <td style='text-align:right;'>0,12<sup>50</sup></td>
+  <td style='text-align:right;'>0,10<sup>00</sup></td>
   <td>per stuk</td></tr>
 <tr><td>Data verbruiken</td>
   <td><em>Afgerond op 100 kb; onder de 500 MB</em></td>
