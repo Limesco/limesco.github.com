@@ -88,7 +88,17 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
   </div>
   <div class="panel-body">
 
-Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de EU. Dit zijn de volgende 28 landen: <em>België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Nederland, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk, Zweden en Kroatië.</em> Alle prijzen in onderstaande tabel zijn in euro's en inclusief btw en gelden per 1 juli 2014.
+Onderstaande tabel bevat de tarieven voor mobiel gebruik binnen de lidstaten
+van de EU. De landen gemarkeerd met <strong>*</strong> zijn geen lid van de EU,
+maar hanteren wel deze tarieven. Het gaat om de volgende 31 landen: <em>België,
+Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk,
+Griekenland, Hongarije, Ierland, IJsland *, Italië, Kroatië, Letland,
+Liechtenstein *, Litouwen, Luxemburg, Malta, Nederland, Noorwegen *, Oostenrijk,
+Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd
+Koninkrijk, Zweden.</em>
+
+Alle prijzen in onderstaande tabel zijn in euro's en inclusief btw en gelden
+per 1 juli 2014.
 
 <table class="table table-condensed">
 <tr><td colspan='2'><em>Kosten</em></td>
