@@ -11,7 +11,7 @@ section: tarieven
   </div>
   <div class="panel-body">
 
-Onderstaande tabel bevat de tarieven die Limesco sinds 24 maart 2014 aan
+Onderstaande tabel bevat de tarieven die Limesco sinds 29 april 2015 aan
 eindgebruikers rekent. Alle prijzen in onderstaande tabel zijn in euro's en
 inclusief btw.
 
