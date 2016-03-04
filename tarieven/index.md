@@ -63,20 +63,20 @@ Ieder abonnement bij Limesco is maandelijks opzegbaar.
   <td style='text-align:right;'>0,10<sup>00</sup></td>
   <td>per stuk</td></tr>
 <tr><td>Data verbruiken</td>
-  <td><em>Afgerond op 100 kb; onder de 500 MB</em></td>
+  <td><em>Afgerekend per kb; onder de 500 MB</em></td>
   <td style='text-align:right;'>0,03<sup>00</sup></td>
   <td>per MB</td></tr>
 <tr><td></td>
-  <td><em>Afgerond op 100 kb; tussen 500 en 1000 MB</em></td>
+  <td><em>Afgerekend per kb; tussen 500 en 1000 MB</em></td>
   <td style='text-align:right;'>0,02<sup>00</sup></td>
   <td>per MB</td></tr>
 <tr style="border-bottom: 1px solid #ddd"><td></td>
-  <td><em>Afgerond op 100 kb; boven de 1000 MB</em></td>
+  <td><em>Afgerekend per kb; boven de 1000 MB</em></td>
   <td style='text-align:right;'>0,01<sup>00</sup></td>
   <td>per MB</td></tr>
 </table>
 
-<p>Als je bijvoorbeeld 672 mb gebruikt, betaal je 500 * 0,03 + 172 * 0,02 = €18,44 voor die maand.</p>
+<p>Als je bijvoorbeeld 672 MB gebruikt, betaal je 500 * 0,03 + 172 * 0,02 = €18,44 voor die maand.</p>
 
 </div>
 </div>
