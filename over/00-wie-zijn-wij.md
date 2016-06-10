@@ -23,8 +23,9 @@ permalink: "over/wie-zijn-wij.html"
   </div>
   <div class="panel-body">
     <div style="float: left; margin-right: 10px"><img src="../img/GerdriaanMulder.jpg" style="width: 180px; height:248px;"></div>
-    <p><strong>Gerdriaan Mulder</strong> volgde de studie kunstmatige intelligentie
-    en studeert nu informatica aan de Radboud Universiteit Nijmegen. Van jongs af
+    <p><strong>Gerdriaan Mulder</strong> behaalde aan de Radboud Universiteit
+    Nijmegen zijn bachelor informatica en volgt nu de "TRU/e Master in Cyber Security" masteropleiding
+    aan de Radboud Universiteit Nijmegen en de Technische Universiteit Eindhoven. Van jongs af
     aan was hij ge&iuml;nteresseerd in alles wat knopjes had. Dit heeft zich verder
     ontwikkeld tot uitgebreide interesse en kennis op het gebied van computers,
     netwerken en het Linux-platform.</p>
