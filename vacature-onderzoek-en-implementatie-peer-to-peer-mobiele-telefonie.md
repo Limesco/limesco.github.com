@@ -1,6 +1,6 @@
 ---
 layout: default
-title: vacature
+title: vacature-onderzoek-en-implementatie-peer-to-peer-mobiele-telefonie
 ---
 
 Vacature onderzoek en implementatie peer-to-peer mobiele telefonie
