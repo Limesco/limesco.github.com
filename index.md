@@ -2,7 +2,7 @@
 layout: default
 title: hoofdpagina
 ---
-    <!-- content -->
+<!-- content -->
 <div class="container">
 <div class="container-fluid">
   <!-- row1 -->
@@ -36,12 +36,10 @@ title: hoofdpagina
           <p>
           Wil je later aan Limesco <strong>herinnerd</strong> worden, bijvoorbeeld omdat je
           huidige contract nog loopt?</p>
-		  <center>
+          <center>
           <p><a class="btn btn-success btn-lg" role="button" href="https://inschrijven.limesco.nl/herinnering.php"
                 target="_blank">Herinner me!</a></p>
           </center>
-		  
-          </p>
           <center>
             <a href="https://facebook.com/Limesco" target="_blank" alt="Limesco op Facebook">
               <img src="facebook.jpg" alt="Limesco op Facebook"/></a>
@@ -52,7 +50,6 @@ title: hoofdpagina
             <a href="https://plus.google.com/102187903526181496074/" target="_blank" alt="Limesco op Google+">
               <img src="googleplus.jpg" alt="Limesco op Google+"/></a>
           </center>
-          </p>
         </div>
       </div>
     </div>

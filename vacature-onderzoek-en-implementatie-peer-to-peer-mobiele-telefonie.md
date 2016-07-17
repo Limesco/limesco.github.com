@@ -13,7 +13,7 @@ Het mobiele telefoonnetwerk is erg gecentraliseerd, de meeste platformen zijn ge
 ### Dit gaan we doen:
 
 * Onderzoek naar geschikte peer-to-peerprotocollen voor mobiele apparaten
-* Onderzoek naar privacy-vriendelijke versleutelingsmethoden
+* Onderzoek naar privacyvriendelijke versleutelingsmethoden
 * Implementatie naar aanleiding van bovenstaand onderzoek.
   * bijvoorbeeld een mobiele applicatie (Android, iOS, ...),
   * ondersteunende infrastructuur
@@ -24,7 +24,7 @@ Het mobiele telefoonnetwerk is erg gecentraliseerd, de meeste platformen zijn ge
 * enthousiast over telecommunicatie en privacy
 * zelfstandig kunnen functioneren
 * gedegen, aantoonbare programmeerkennis
-* ervaring met mobiele applicatie-ontwikkeling is een pré
+* ervaring met mobiele-applicatieontwikkeling is een pré
 
 Je krijgt een vergoeding op basis van gewerkte uren. We streven naar 20-40 uur per week. Op ons kantoor werken (op de universiteitscampus van Nijmegen) is in overleg mogelijk.
 
@@ -37,7 +37,7 @@ Je krijgt een vergoeding op basis van gewerkte uren. We streven naar 20-40 uur p
 
 De termijn van het project is heden tot 30 april 2017.
 
-De deadline om te reageren is 15 juli 2016. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld
+De deadline om te reageren is 29 juli 2016. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld
 
 Voor verdere vragen kan contact gezocht worden met Gerdriaan Mulder, gerdriaan *at* limesco *punt* nl
 
