@@ -17,11 +17,11 @@ permalink: "contact/index.html"
     (supportvragen aub niet telefonisch)</li>
   </ul>
   <p>Mocht je een vertrouwelijke mail willen sturen, kun je deze
-  encrypten met PGP. De vier keys die je daarvoor kan gebruiken, zijn:</p>
+  encrypten met PGP. De keys die je daarvoor gebruikt zijn:</p>
   <ul>
-    <li><tt>34AA433E</tt> &amp; <tt>59A66010</tt> (Sjors Gielen)</li>
-    <li><tt>518BFC29</tt> (Gerdriaan Mulder)</li>
-    <li><tt>B81D5DA2</tt> (Peter van der Veeken)</li>
+    <li><tt>9F47 91AA 6BD2 F5CC D92E  51D1 5DD5 0A02 <strong>34AA 433E</strong></tt> (Sjors Gielen)</li>
+    <li><tt>B722 1131 25F5 E3DA ADA9  0045 A01F 4A76 <strong>59A6 6010</strong></tt> (Sjors Gielen)</li>
+    <li><tt>7E10 279C 04BB DBB4 C82E  57A5 298C FCE2 <strong>518B FC29</strong></tt> (Gerdriaan Mulder)</li>
   </ul>
   <p>Het bezoek- en postadres van Limesco is:</p>
   <pre>Limesco B.V.
