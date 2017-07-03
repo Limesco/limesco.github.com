@@ -23,10 +23,10 @@ permalink: "contact/index.html"
     <li><tt>B722 1131 25F5 E3DA ADA9  0045 A01F 4A76 <strong>59A6 6010</strong></tt> (Sjors Gielen)</li>
     <li><tt>7E10 279C 04BB DBB4 C82E  57A5 298C FCE2 <strong>518B FC29</strong></tt> (Gerdriaan Mulder)</li>
   </ul>
-  <p>Het bezoek- en postadres van Limesco is:</p>
+  <p>Het postadres van Limesco is:</p>
   <pre>Limesco B.V.
-Toernooiveld 100
-6525 EC Nijmegen</pre>
+Boddemate 26
+8014JH Zwolle</pre>
   </div>
 </div>
 
